@@ -45,5 +45,5 @@ For further information, please see my [CV](Bowen___CV.pdf).
 - Reviewer:  -->
 
 ## Contact
-Email: bowenj4@illinois.edu
+Email: bowenj4[AT]illinois.edu
 <!-- <br>Twitter: @ -->
