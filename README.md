@@ -25,7 +25,7 @@ For further information, please see my [CV](Bowen___CV.pdf).
 
 ## Education
 - University of Illinois Urbana-Champaign - Ph.D. in Computer Science  (2021 - Present). 
-- Tsinghua University - B.S. in Electrical Engineering and Statistics. 
+- Tsinghua University - B.S. in Electrical Engineering and Statistics (2017 - 2021). 
 
 ## Professional Experience
 - Microsoft Research - Research Intern
