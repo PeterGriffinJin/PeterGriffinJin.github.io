@@ -2,7 +2,7 @@ I am a 2nd-year PhD student in Computer Science at University of Illinois Urbana
 
 For further information, please see my [CV](Bowen___CV.pdf).
 
-**Research Interests**: My current research interests lie in unstructured data (e.g., text) modeling, structured data (e.g., table, graph) and their intersection.
+**Research Interests**: My current research interests lie in unstructured data (e.g., text) modeling, structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval.
 
 ## Selected Publications
 (\* denotes equal contribution)
