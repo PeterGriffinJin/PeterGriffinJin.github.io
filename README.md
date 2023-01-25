@@ -4,17 +4,25 @@ For further information, please see my [CV](Bowen___CV.pdf).
 
 **Research Interests**: My current research interests lie in unstructured data (e.g., text) modeling, structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval.
 
+### News
+- [2023.01] One paper on Metadata-Enhanced Scientific Text Classification has been accepted by WWW 2023!
+- [2023.01] One paper on Learning Text-Rich Network Representations has been accepted by ICLR 2023!
+
 ## Selected Publications
 (\* denotes equal contribution)
 ### Prepints
 - [Heterformer: A Transformer Architecture for Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/pdf/2205.10282)
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
-
+<br>*preprint 2022*.
 
 ### Inproceedings
 - [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/forum?id=2YQrqe4RNv)
 <br>**Bowen Jin**, Yu Zhang, Yu Meng, Jiawei Han.
 <br>*ICLR 2023*.
+
+- [The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study]()
+<br>Yu Zhang, **Bowen Jin**, Qi Zhu, Yu Meng, Jiawei Han.
+<br>*WWW 2023*.
 
 
 ### Before Ph.D.
