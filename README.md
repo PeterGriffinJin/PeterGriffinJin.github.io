@@ -10,7 +10,7 @@ For further information, please see my [CV](Bowen___CV.pdf).
 
 ## Selected Publications
 (\* denotes equal contribution)
-### Prepints
+### Preprints
 - [Heterformer: A Transformer Architecture for Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/pdf/2205.10282)
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
 <br>*preprint 2022*.
