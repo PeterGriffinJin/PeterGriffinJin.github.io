@@ -2,7 +2,7 @@ I am a 2nd-year Ph.D. student in Computer Science at University of Illinois Urba
 
 For further information, please see my [CV](Bowen___CV.pdf).
 
-**Research Interests**: My current research interests lie in unstructured data (e.g., text) modeling, structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval.
+**Research Interests**: My current research interests lie in mining unstructured data (e.g., text), structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval.
 
 ### News
 - [2023.01] One paper on Metadata-Enhanced Scientific Text Classification has been accepted by WWW 2023!
