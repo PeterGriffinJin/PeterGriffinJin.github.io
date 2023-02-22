@@ -14,18 +14,18 @@ For further information, please see my [CV](Bowen___CV.pdf).
 - [Heterformer: A Transformer Architecture for Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/pdf/2205.10282)
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
 <br>*preprint 2022*.
-<br>[[PDF]()] [[Code]()]
+<br>[[PDF](https://arxiv.org/pdf/2205.10282)] [[Code]()]
 
 ### Inproceedings
-- [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/forum?id=2YQrqe4RNv)
+- [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
 <br>**Bowen Jin**, Yu Zhang, Yu Meng, Jiawei Han.
 <br>*ICLR 2023*.
-<br>[[PDF]()] [[Code]()]
+<br>[[PDF](https://openreview.net/pdf?id=2YQrqe4RNv)] [[Code](https://github.com/PeterGriffinJin/Edgeformers)]
 
-- [The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study]()
+- [The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study](https://arxiv.org/abs/2302.03341)
 <br>Yu Zhang, **Bowen Jin**, Qi Zhu, Yu Meng, Jiawei Han.
 <br>*WWW 2023*.
-<br>[[PDF]()] [[Code](https://github.com/yuzhimanhua/MAPLE)]
+<br>[[PDF](https://arxiv.org/abs/2302.03341)] [[Code](https://github.com/yuzhimanhua/MAPLE)]
 
 ### Before Ph.D.
 - [Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3397271.3401072)
