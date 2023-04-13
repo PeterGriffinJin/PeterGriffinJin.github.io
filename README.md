@@ -52,7 +52,8 @@ For further information, please see my [CV](Bowen___CV.pdf).
 <br> Supervised by Dr. [Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/).
 
 ## Professional Service
-- Reviewer: KDD23
+- Reviewer: KDD, NeurIPs, TOIS.
+<!-- KDD 2023, NeurIPs 2023, TOIS 2023 -->
 
 ## Miscellaneous
 I started to play a traditional Chinese instrument, Sheng at the age of eight. <a href="https://www.bilibili.com/video/BV1Jv411V7Nt?from=search&seid=17941530779930110754">Here is a concert record of mine.</a> Hope you enjoy it!:)
