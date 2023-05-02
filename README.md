@@ -22,6 +22,11 @@ For further information, please see my [CV](Bowen___CV.pdf).
 <br>*ACL 2023*.
 <br>[[PDF]()] [[Code]()]
 
+- [Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models]()
+<br>Pengcheng Jiang, Shivam Agarwal, **Bowen Jin**, Xuan Wang, Jimeng Sun, Jiawei Han
+<br>*ACL 2023 (Findings)*.
+<br>[[PDF]()] [[Code]()]
+
 - [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
 <br>**Bowen Jin**, Yu Zhang, Yu Meng, Jiawei Han.
 <br>*ICLR 2023*.
