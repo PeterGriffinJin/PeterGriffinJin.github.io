@@ -17,6 +17,11 @@ For further information, please see my [CV](Bowen___CV.pdf).
 <br>[[PDF](https://arxiv.org/pdf/2205.10282)] [[Code]()]
 
 ### Inproceedings
+- [Language Model Pretraining on Text-rich Networks]()
+<br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
+<br>*ACL 2023*.
+<br>[[PDF]()] [[Code]()]
+
 - [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
 <br>**Bowen Jin**, Yu Zhang, Yu Meng, Jiawei Han.
 <br>*ICLR 2023*.
