@@ -9,7 +9,7 @@ For further information, please see my [CV](Bowen___CV.pdf).
 - [2023.01] One paper on Metadata-Enhanced Scientific Text Classification has been accepted by WWW 2023!
 - [2023.01] One paper on Learning Text-Rich Network Representations has been accepted by ICLR 2023!
 
-## Selected Publications
+## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao)
 (\* denotes equal contribution)
 ### Preprints
 - [Heterformer: A Transformer Architecture for Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/pdf/2205.10282)
@@ -17,7 +17,7 @@ For further information, please see my [CV](Bowen___CV.pdf).
 <br>*preprint 2022*.
 <br>[[PDF](https://arxiv.org/pdf/2205.10282)] [[Code]()]
 
-### Inproceedings
+### 2023
 - [Patton: Language Model Pretraining on Text-rich Networks]()
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
 <br>*ACL 2023*.
