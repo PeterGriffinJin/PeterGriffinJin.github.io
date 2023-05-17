@@ -7,8 +7,8 @@ For further information, please see my [CV](Bowen___CV.pdf).
 ### News
 - [2023.05] Two papers on representation learning on heterogeneous text-rich networks and weakly supervised text classification have been accepted by KDD 2023!
 - [2023.05] Two papers on language model pretraining and knowledge graph completion have been accepted by ACL 2023!
-<!-- - [2023.01] One paper on Metadata-Enhanced Scientific Text Classification has been accepted by WWW 2023!
-- [2023.01] One paper on Learning Text-Rich Network Representations has been accepted by ICLR 2023! -->
+<!-- - [2023.01] One paper on Metadata-Enhanced Scientific Text Classification has been accepted by WWW 2023! -->
+<!-- - [2023.01] One paper on Learning Text-Rich Network Representations has been accepted by ICLR 2023! -->
 
 ## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao)
 (\* denotes equal contribution)
