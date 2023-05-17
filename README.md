@@ -11,13 +11,23 @@ For further information, please see my [CV](Bowen___CV.pdf).
 
 ## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao)
 (\* denotes equal contribution)
-### Preprints
-- [Heterformer: A Transformer Architecture for Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/pdf/2205.10282)
+<!-- ### Preprints -->
+<!-- - [Heterformer: A Transformer Architecture for Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/pdf/2205.10282)
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
 <br>*preprint 2022*.
-<br>[[PDF](https://arxiv.org/pdf/2205.10282)] [[Code]()]
+<br>[[PDF](https://arxiv.org/pdf/2205.10282)] [[Code]()] -->
 
 ### 2023
+- [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks]()
+<br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
+<br>*KDD 2023*.
+<br>[[PDF]()] [[Code]()]
+
+- [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers]()
+<br>Yu Zhang, **Bowen Jin**, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, Yu Meng, Jiawei Han.
+<br>*KDD 2023*.
+<br>[[PDF]()] [[Code]()]
+
 - [Patton: Language Model Pretraining on Text-rich Networks]()
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
 <br>*ACL 2023*.
