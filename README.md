@@ -31,12 +31,12 @@ For further information, please see my [CV](Bowen_CV.pdf).
 
 - [Patton: Language Model Pretraining on Text-rich Networks]()
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
-<br>*ACL 2023*.
+<br>*ACL 2023 (Oral)*.
 <br>[[PDF]()] [[Code]()]
 
 - [Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models]()
 <br>Pengcheng Jiang, Shivam Agarwal, **Bowen Jin**, Xuan Wang, Jimeng Sun, Jiawei Han
-<br>*ACL 2023 (Findings)*.
+<br>*Findings of ACL 2023*.
 <br>[[PDF]()] [[Code]()]
 
 - [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
