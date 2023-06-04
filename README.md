@@ -62,16 +62,16 @@ For further information, please see my [CV](Bowen_CV.pdf).
 ## Professional Experience
 - Microsoft Research - Research Intern
 <br> 2022.05-2022.09
-<br> Supervised by Dr. [Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/).
+<!-- <br> Supervised by Dr. [Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). -->
 - Microsoft Research (Asia) - Research Intern
 <br> 2020.09-2021.3
-<br> Supervised by Dr. [Zheng Liu](https://zhengliu101.github.io/).
+<!-- <br> Supervised by Dr. [Zheng Liu](https://zhengliu101.github.io/). -->
 - University of California, Los Angeles - Research Assistant
 <br> 2020.05-2020.09
-<br> Supervised by Dr. [Yizhou Sun](https://web.cs.ucla.edu/~yzsun/).
+<!-- <br> Supervised by Dr. [Yizhou Sun](https://web.cs.ucla.edu/~yzsun/). -->
 - University of Michigan - Research Assistant
 <br> 2019.06-2019.09
-<br> Supervised by Dr. [Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/).
+<!-- <br> Supervised by Dr. [Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/). -->
 
 ## Professional Service
 - Reviewer: KDD, NeurIPs, TOIS.
