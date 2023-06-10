@@ -41,7 +41,7 @@ For further information, please see my [CV](Bowen_CV.pdf).
 
 - [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
 <br>**Bowen Jin**, Yu Zhang, Yu Meng, Jiawei Han.
-<br>*ICLR 2023*.
+<br>*ICLR 2023 <span style="color:red">(Poster)</span>*.
 <br>[[PDF](https://openreview.net/pdf?id=2YQrqe4RNv)] [[Code](https://github.com/PeterGriffinJin/Edgeformers)]
 
 - [The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study](https://arxiv.org/abs/2302.03341)
