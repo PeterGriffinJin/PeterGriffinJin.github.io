@@ -21,17 +21,17 @@ For further information, please see my [CV](Bowen_CV.pdf).
 ### 2023
 - [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks]()
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
-<br>*KDD 2023*.
+<br>*KDD 2023 [(Oral)]{color="red"}*.
 <br>[[PDF]()] [[Code]()]
 
 - [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers]()
 <br>Yu Zhang, **Bowen Jin**, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, Yu Meng, Jiawei Han.
-<br>*KDD 2023*.
+<br>*KDD 2023 [(Oral)]{color="red"}*.
 <br>[[PDF]()] [[Code]()]
 
 - [Patton: Language Model Pretraining on Text-rich Networks]()
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
-<br>*ACL 2023 (Oral)*.
+<br>*ACL 2023 [(Oral)]{color="red"}*.
 <br>[[PDF]()] [[Code]()]
 
 - [Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models]()
@@ -60,6 +60,9 @@ For further information, please see my [CV](Bowen_CV.pdf).
 - Tsinghua University, B.S. in Electrical Engineering and Statistics (2017 - 2021). 
 
 ## Professional Experience
+- Amazon Search - Applied Scientist Intern
+<br> 2023.05-2023.09
+<!-- <br> Supervised by Dr. [Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). -->
 - Microsoft Research - Research Intern
 <br> 2022.05-2022.09
 <!-- <br> Supervised by Dr. [Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). -->
