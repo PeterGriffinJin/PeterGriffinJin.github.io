@@ -19,20 +19,20 @@ For further information, please see my [CV](Bowen_CV.pdf).
 <br>[[PDF](https://arxiv.org/pdf/2205.10282)] [[Code]()] -->
 
 ### 2023
-- [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks]()
+- [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
 <br>*KDD 2023*.
-<br>[[PDF]()] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2205.10282)] [[Code]()]
 
 - [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers]()
 <br>Yu Zhang, **Bowen Jin**, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, Yu Meng, Jiawei Han.
 <br>*KDD 2023*.
 <br>[[PDF]()] [[Code]()]
 
-- [Patton: Language Model Pretraining on Text-rich Networks]()
+- [Patton: Language Model Pretraining on Text-rich Networks](https://arxiv.org/abs/2305.12268)
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
 <br>*ACL 2023*.
-<br>[[PDF]()] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2305.12268)] [[Code]()]
 
 - [Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models]()
 <br>Pengcheng Jiang, Shivam Agarwal, **Bowen Jin**, Xuan Wang, Jimeng Sun, Jiawei Han
