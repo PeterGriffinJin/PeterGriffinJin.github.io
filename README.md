@@ -31,7 +31,8 @@ For further information, please see my [CV](Bowen_CV.pdf).
 
 - [Patton: Language Model Pretraining on Text-rich Networks](https://arxiv.org/abs/2305.12268)
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
-<br>*ACL 2023*.
+<br>*ACL 2023 <span style="color:red">(Oral)</span>*.
+<!-- <br>*ACL 2023*. -->
 <br>[[PDF](https://arxiv.org/abs/2305.12268)] [[Code]()]
 
 - [Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models]()
@@ -41,8 +42,8 @@ For further information, please see my [CV](Bowen_CV.pdf).
 
 - [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
 <br>**Bowen Jin**, Yu Zhang, Yu Meng, Jiawei Han.
-<!-- <br>*ICLR 2023 <span style="color:red">(Poster)</span>*. -->
-<br>*ICLR 2023*.
+<br>*ICLR 2023 <span style="color:red">(Poster)</span>*.
+<!-- <br>*ICLR 2023*. -->
 <br>[[PDF](https://openreview.net/pdf?id=2YQrqe4RNv)] [[Code](https://github.com/PeterGriffinJin/Edgeformers)]
 
 - [The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study](https://arxiv.org/abs/2302.03341)
