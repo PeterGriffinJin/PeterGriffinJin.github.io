@@ -22,23 +22,23 @@ For further information, please see my [CV](Bowen_CV.pdf).
 - [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
 <br>*KDD 2023*.
-<br>[[PDF](https://arxiv.org/abs/2205.10282)] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2205.10282)] [[Code](https://github.com/PeterGriffinJin/Heterformer)]
 
-- [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers]()
+- [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/abs/2306.14003)
 <br>Yu Zhang, **Bowen Jin**, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, Yu Meng, Jiawei Han.
 <br>*KDD 2023*.
-<br>[[PDF]()] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2306.14003)] [[Code](https://github.com/yuzhimanhua/FUTEX)]
 
 - [Patton: Language Model Pretraining on Text-rich Networks](https://arxiv.org/abs/2305.12268)
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
 <br>*ACL 2023 <span style="color:red">(Oral)</span>*.
 <!-- <br>*ACL 2023*. -->
-<br>[[PDF](https://arxiv.org/abs/2305.12268)] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2305.12268)] [[Code](https://github.com/PeterGriffinJin/Patton)]
 
 - [Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models]()
 <br>Pengcheng Jiang, Shivam Agarwal, **Bowen Jin**, Xuan Wang, Jimeng Sun, Jiawei Han
 <br>*Findings of ACL 2023*.
-<br>[[PDF]()] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2305.15597)] [[Code](https://github.com/pat-jj/TagReal)]
 
 - [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
 <br>**Bowen Jin**, Yu Zhang, Yu Meng, Jiawei Han.
@@ -81,6 +81,8 @@ For further information, please see my [CV](Bowen_CV.pdf).
 ## Professional Service
 - Reviewer: KDD, NeurIPs, TOIS.
 <!-- KDD 2023, NeurIPs 2023, TOIS 2023 -->
+
+<!-- - KDD 2023 Grand Award -->
 
 ## Miscellaneous
 I started to play a traditional Chinese instrument, Sheng at the age of eight. <a href="https://www.bilibili.com/video/BV1Jv411V7Nt?from=search&seid=17941530779930110754">Here is a concert record of mine.</a> Hope you enjoy it!:)
