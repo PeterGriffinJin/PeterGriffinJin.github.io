@@ -1,6 +1,6 @@
 I am a 3rd-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign, fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Before that, I was an undergraduate student in Electrical Engineering of Tsinghua University, fortunately advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). During the past, I spent time at Microsoft Research (both Redmond and Beijing), UCLA and Umich.
 
-For further information, please see my [CV](Bowen_CV.pdf).
+For further information, please see my [CV](Bowen__CV.pdf).
 
 **Research Interests**: My current research interests lie in mining unstructured data (e.g., text), structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval.
 
