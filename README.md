@@ -5,6 +5,7 @@ For further information, please see my [CV](Bowen__CV.pdf).
 **Research Interests**: My current research interests lie in mining unstructured data (e.g., text), structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval.
 
 ### News
+- [2023.09] I am excited to be the Guest Instructor for UIUC CS512: Data Mining Principles.
 - [2023.05] Two papers on representation learning on heterogeneous text-rich networks and weakly supervised text classification have been accepted by KDD 2023!
 - [2023.05] Two papers on language model pretraining and knowledge graph completion have been accepted by ACL 2023!
 <!-- - [2023.01] One paper on Metadata-Enhanced Scientific Text Classification has been accepted by WWW 2023! -->
