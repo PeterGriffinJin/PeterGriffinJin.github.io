@@ -15,11 +15,12 @@ I am maintaining an awesome github repo on [**Language Models on Graphs**](https
 
 ## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao)
 (\* denotes equal contribution)
-<!-- ### Preprints -->
-<!-- - [Heterformer: A Transformer Architecture for Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/pdf/2205.10282)
-<br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
-<br>*preprint 2022*.
-<br>[[PDF](https://arxiv.org/pdf/2205.10282)] [[Code]()] -->
+
+### Preprints
+- [Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder](https://arxiv.org/pdf/2310.06684v1.pdf)
+<br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Han Zhao, Jiawei Han.
+<br>*preprint 2023*.
+<br>[[PDF](https://arxiv.org/pdf/2310.06684v1.pdf)] [[Code](https://github.com/PeterGriffinJin/METERN-submit)]
 
 ### 2023
 - [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
