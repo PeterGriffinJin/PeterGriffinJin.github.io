@@ -22,6 +22,11 @@ I am maintaining an awesome github repo on [**Language Models on Graphs**](https
 <br>*preprint 2023*.
 <br>[[PDF](https://arxiv.org/pdf/2310.06684v1.pdf)] [[Code](https://github.com/PeterGriffinJin/METERN-submit)]
 
+- [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.06684v1.pdf)
+<br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, et al.
+<br>*preprint 2023*.
+<br>[[PDF](https://arxiv.org/pdf/2310.06684v1.pdf)] [[Code]()]
+
 ### 2023
 - [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
