@@ -88,8 +88,12 @@ I am maintaining an awesome github repo on [**Language Models on Graphs**](https
 <!-- <br> Supervised by Dr. [Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/). -->
 
 ## Professional Service
-- Reviewer: KDD, NeurIPs, TOIS.
-<!-- KDD 2023, NeurIPs 2023, TOIS 2023 -->
+- PC Member: WSDM 2023, KDD 2023, NeurIPs 2023, ICLR 2024, WWW 2024, SDM 2024
+
+- Journal Reviewer: TKDE, TOIS
+
+- Guest Instructor: UIUC Fall23 [CS512](https://cs.illinois.edu/academics/courses/cs512)
+
 
 <!-- - KDD 2023 Grand Award -->
 
