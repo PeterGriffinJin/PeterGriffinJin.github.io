@@ -7,7 +7,7 @@ For further information, please see my [CV](Bowen__CV.pdf).
 I am maintaining an awesome github repo on [**Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs). Feel free to have a look!
 
 ### News
-- [2023.10] One tutorial on bridging text data and graph data has been accepted by WSDM 2023!
+- [2023.10] One tutorial proposal on bridging text data and graph data has been accepted by WSDM 2023!
 - [2023.09] I am excited to be the Guest Instructor for UIUC [CS512: Data Mining Principles](https://cs.illinois.edu/academics/courses/cs512).
 - [2023.05] Two papers on representation learning on heterogeneous text-rich networks and weakly supervised text classification have been accepted by KDD 2023!
 - [2023.05] Two papers on language model pretraining and knowledge graph completion have been accepted by ACL 2023!
