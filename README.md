@@ -38,7 +38,7 @@ I am maintaining an awesome github repo on [**Language Models on Graphs**](https
 - [Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery]()
 <br>**Bowen Jin**, Yu Zhang, Sha Li, Jiawei Han.
 <br>*WSDM 2023 (Tutorial)*.
-<br>[[PDF]()] [[Tutorial Page](https://peterjin.me/kdd23-tutorial/)]
+<br>[[PDF]()] [[Tutorial Page](https://peterjin.me/tutorials/wsdm24.md)]
 
 
 ### 2023
