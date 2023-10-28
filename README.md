@@ -7,6 +7,7 @@ For further information, please see my [CV](Bowen__CV.pdf).
 I am maintaining an awesome github repo on [**Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs). Feel free to have a look!
 
 ### News
+- [2023.10] One tutorial on bridging text data and graph data has been accepted by WSDM 2023!
 - [2023.09] I am excited to be the Guest Instructor for UIUC [CS512: Data Mining Principles](https://cs.illinois.edu/academics/courses/cs512).
 - [2023.05] Two papers on representation learning on heterogeneous text-rich networks and weakly supervised text classification have been accepted by KDD 2023!
 - [2023.05] Two papers on language model pretraining and knowledge graph completion have been accepted by ACL 2023!
@@ -26,6 +27,19 @@ I am maintaining an awesome github repo on [**Language Models on Graphs**](https
 <br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, et al.
 <br>*preprint 2023*.
 <br>[[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)] [[Code]()]
+
+- [“Why Should I Review This Paper?” Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483.pdf)
+<br>Yu Zhang, Yanzhen Shen, Xiusi Chen, **Bowen Jin**, Jiawei Han.
+<br>*preprint 2023*.
+<br>[[PDF](https://arxiv.org/pdf/2310.14483.pdf)] [[Code]()]
+
+
+### 2024
+- [Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery]()
+<br>**Bowen Jin**, Yu Zhang, Sha Li, Jiawei Han.
+<br>*WSDM 2023 (Tutorial)*.
+<br>[[PDF]()] [[Tutorial Page](https://peterjin.me/kdd23-tutorial/)]
+
 
 ### 2023
 - [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
