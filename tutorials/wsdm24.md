@@ -71,7 +71,7 @@ To be updated
 <br/>
 <br/>
 
-<img align="left" img src="/img/Sha_Li.png" alt="Sha Li" style="width: 200px;margin-right:50px;"/>**Sha Li**, Ph.D. student, Computer Science, UIUC. Her research focuses on information extraction and procedure understanding. She has numerous publications in ACL, EMNLP, NAACL, and WWW.
+<img align="left" img src="/img/Sha_Li.jpeg" alt="Sha Li" style="width: 200px;margin-right:50px;"/>**Sha Li**, Ph.D. student, Computer Science, UIUC. Her research focuses on information extraction and procedure understanding. She has numerous publications in ACL, EMNLP, NAACL, and WWW.
 
 
 <br/>
