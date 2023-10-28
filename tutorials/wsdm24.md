@@ -1,11 +1,8 @@
----
-permalink: /kdd23-tutorial/
-author_profile: true
----
 
 <center>
 <h1>
-WSDM'24 Tutorial: Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective
+WSDM'24 Tutorial: Bridging Text Data and Graph Data: Towards Semantics and
+Structure-aware Knowledge Discovery
 </h1>
 Bowen Jin, Yu Zhang, Sha Li, Jiawei Han<br/>
 Computer Science Department, University of Illinois at Urbana-Champaign<br/>
@@ -71,6 +68,7 @@ To be updated
 <br/>
 
 <img align="left" img src="/img/Sha_Li.png" alt="Sha Li" style="width: 200px;margin-right:50px;"/>**Sha Li**, Ph.D. student, Computer Science, UIUC. Her research focuses on information extraction and procedure understanding. She has numerous publications in ACL, EMNLP, NAACL, and WWW.
+
 
 <br/>
 <br/>
