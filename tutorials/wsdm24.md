@@ -5,7 +5,7 @@ author_profile: true
 
 <center>
 <h1>
-WSDM'23 Tutorial: Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective
+WSDM'24 Tutorial: Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective
 </h1>
 Bowen Jin, Yu Zhang, Sha Li, Jiawei Han<br/>
 Computer Science Department, University of Illinois at Urbana-Champaign<br/>
@@ -54,6 +54,10 @@ To be updated
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <img align="left" img src="/img/Yu_Zhang.png" alt="Yu Zhang" style="width: 200px;margin-right:50px;"/>**Yu Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining with structural information. He received the Dissertation Completion Fellowship (2023), the Yunni and Maxine Pao Memorial Fellowship (2022), and WWW Best Poster Award Honorable Mention (2018).
 
@@ -66,7 +70,7 @@ To be updated
 <br/>
 <br/>
 
-<img align="left" img src="/img/Sha_Li.jpg" alt="Sha Li" style="width: 200px;margin-right:50px;"/>**Sha Li**, Ph.D. student, Computer Science, UIUC. Her research focuses on information extraction and procedure understanding. She has numerous publications in ACL, EMNLP, NAACL, and WWW.
+<img align="left" img src="/img/Sha_Li.png" alt="Sha Li" style="width: 200px;margin-right:50px;"/>**Sha Li**, Ph.D. student, Computer Science, UIUC. Her research focuses on information extraction and procedure understanding. She has numerous publications in ACL, EMNLP, NAACL, and WWW.
 
 <br/>
 <br/>
