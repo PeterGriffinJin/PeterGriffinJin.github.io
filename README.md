@@ -18,11 +18,6 @@ I am maintaining an awesome github repo on [**Language Models on Graphs**](https
 (\* denotes equal contribution)
 
 ### Preprints
-- [Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder](https://arxiv.org/pdf/2310.06684v1.pdf)
-<br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Han Zhao, Jiawei Han.
-<br>*preprint 2023*.
-<br>[[PDF](https://arxiv.org/pdf/2310.06684v1.pdf)] [[Code](https://github.com/PeterGriffinJin/METERN-submit)]
-
 - [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815v1.pdf)
 <br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, et al.
 <br>*preprint 2023*.
@@ -42,6 +37,11 @@ I am maintaining an awesome github repo on [**Language Models on Graphs**](https
 
 
 ### 2023
+- [Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder](https://arxiv.org/pdf/2310.06684v1.pdf)
+<br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Han Zhao, Jiawei Han.
+<br>*NeurIPs 2023 (GLFrontiers)*.
+<br>[[PDF](https://arxiv.org/pdf/2310.06684v1.pdf)] [[Code](https://github.com/PeterGriffinJin/METERN-submit)]
+
 - [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
 <br>*KDD 2023*.
@@ -55,7 +55,6 @@ I am maintaining an awesome github repo on [**Language Models on Graphs**](https
 - [Patton: Language Model Pretraining on Text-rich Networks](https://arxiv.org/abs/2305.12268)
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
 <br>*ACL 2023 <span style="color:red">(Oral)</span>*.
-<!-- <br>*ACL 2023*. -->
 <br>[[PDF](https://arxiv.org/abs/2305.12268)] [[Code](https://github.com/PeterGriffinJin/Patton)]
 
 - [Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models]()
