@@ -34,7 +34,7 @@ I am maintaining an awesome github repo on [**Language Models on Graphs**](https
 ### 2024
 - [Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery]()
 <br>**Bowen Jin**, Yu Zhang, Sha Li, Jiawei Han.
-<br>*WSDM 2023 (Tutorial)*.
+<br>*WSDM 2024 (Tutorial)*.
 <br>[[PDF]()] [[Tutorial Page](tutorials/wsdm24.md)]
 
 
