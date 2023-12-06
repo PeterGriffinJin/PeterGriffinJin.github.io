@@ -4,7 +4,7 @@ For further information, please see my [CV](Bowen__CV.pdf).
 
 **Research Interests**: My current research interests lie in mining unstructured data (e.g., text), structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval.
 
-I am maintaining an awesome github repo on [**Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with a survey paper on [**LLMs on Graphs**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
+I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
 ### News
 - [2023.10] One paper on learning multiplex node embeddings on text-attributed network has been accepted by NeurIPs 2023 GLFrontiers Workshop!
