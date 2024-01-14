@@ -119,6 +119,8 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 - Guest Instructor: UIUC Fall23 [CS512](https://cs.illinois.edu/academics/courses/cs512)
 
+- Lead TA: UIUC Spring24 [CS412](https://cs.illinois.edu/academics/courses/cs412)
+
 
 <!-- - KDD 2023 Grand Award -->
 
