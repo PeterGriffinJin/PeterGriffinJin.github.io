@@ -42,6 +42,11 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 
 ### 2024
+- [Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm]()
+<br>Tianxin Wei, **Bowen Jin**, Ruirui Li, Hansi Zeng, Zhengyang Wang, et al.
+<br>*ICLR 2024*.
+<br>[[PDF]()] [[Code]()]
+
 - [Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery]()
 <br>**Bowen Jin**, Yu Zhang, Sha Li, Jiawei Han.
 <br>*WSDM 2024 (Tutorial)*.
