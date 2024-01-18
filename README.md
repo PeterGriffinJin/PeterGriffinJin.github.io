@@ -2,7 +2,9 @@ I am a 3rd-year Ph.D. student in Computer Science at University of Illinois Urba
 
 For further information, please see my [CV](Bowen__CV.pdf).
 
-**Research Interests**: My current research interests lie in mining unstructured data (e.g., text), structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval.
+**Research Interests**: My research lies at the intersection of large language models, information networks and text/data mining. In particular, I focus on how language models can integrate text, network, and multimodal data for solving real world problems including information retrieval and knowledge discovery.
+<!-- My current research interests lie in mining unstructured data (e.g., text), structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval. -->
+
 
 I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
