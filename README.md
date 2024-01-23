@@ -32,11 +32,6 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 <br>*preprint 2023*.
 <br>[[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)] [[Code]()]
 
-- [Scalable and Effective Generative Information Retrieval](https://arxiv.org/pdf/2311.09134.pdf)
-<br>Hansi Zeng, Chen Luo, **Bowen Jin**, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani.
-<br>*preprint 2023*.
-<br>[[PDF](https://arxiv.org/pdf/2311.09134.pdf)] [[Code](https://github.com/HansiZeng/RIPOR)]
-
 - [“Why Should I Review This Paper?” Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483.pdf)
 <br>Yu Zhang, Yanzhen Shen, Xiusi Chen, **Bowen Jin**, Jiawei Han.
 <br>*preprint 2023*.
@@ -44,6 +39,16 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 
 ### 2024
+- [Scalable and Effective Generative Information Retrieval](https://arxiv.org/pdf/2311.09134.pdf)
+<br>Hansi Zeng, Chen Luo, **Bowen Jin**, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani.
+<br>*WWW 2023*.
+<br>[[PDF](https://arxiv.org/pdf/2311.09134.pdf)] [[Code](https://github.com/HansiZeng/RIPOR)]
+
+- [Improving Retrieval in Theme-specific Applications using a Corpus Topical Taxonomy]()
+<br>SeongKu Kang, Shivam Agarwal, **Bowen Jin**, Dongha Lee, Hwanjo Yu, Jiawei Han.
+<br>*WWW 2023*.
+<br>[[PDF]()] [[Code]()]
+
 - [Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm]()
 <br>Tianxin Wei, **Bowen Jin**, Ruirui Li, Hansi Zeng, Zhengyang Wang, et al.
 <br>*ICLR 2024*.
