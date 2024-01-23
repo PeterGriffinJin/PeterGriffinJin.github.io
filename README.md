@@ -41,12 +41,12 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 ### 2024
 - [Scalable and Effective Generative Information Retrieval](https://arxiv.org/pdf/2311.09134.pdf)
 <br>Hansi Zeng, Chen Luo, **Bowen Jin**, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani.
-<br>*WWW 2023*.
+<br>*WWW 2024*.
 <br>[[PDF](https://arxiv.org/pdf/2311.09134.pdf)] [[Code](https://github.com/HansiZeng/RIPOR)]
 
 - [Improving Retrieval in Theme-specific Applications using a Corpus Topical Taxonomy]()
 <br>SeongKu Kang, Shivam Agarwal, **Bowen Jin**, Dongha Lee, Hwanjo Yu, Jiawei Han.
-<br>*WWW 2023*.
+<br>*WWW 2024*.
 <br>[[PDF]()] [[Code]()]
 
 - [Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm]()
