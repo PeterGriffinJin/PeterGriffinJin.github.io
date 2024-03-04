@@ -39,14 +39,11 @@ We will present an organized picture of how graphs and texts can mutually benefi
 
 ## Slides
 
-To be updated
-
-<!-- * Introduction \[[Slides](/files/kdd23-tutorial/Part0.pdf)\]
-* Part I: Language Foundation Models \[[Slides](/files/kdd23-tutorial/Part1.pdf)\]
-* Part II: Embedding-Driven Topic Discovery \[[Slides](/files/kdd23-tutorial/Part2.pdf)\]
-* Part III: Weakly-Supervised Text Classification \[[Slides](/files/kdd23-tutorial/Part3.pdf)\]
-* Part IV: Language Models for Knowledge Base Construction \[[Slides](/files/kdd23-tutorial/Part4.pdf)\]
-* Part V: Advanced Text Mining Applications \[[Slides](/files/kdd23-tutorial/Part5.pdf)\] -->
+* Introduction \[[Slides](Part0.pdf)\]
+* Part I: Language Foundation Models \[[Slides](Part1.pdf)\]
+* Part II: Embedding-Driven Topic Discovery \[[Slides](Part2.pdf)\]
+* Part III: Weakly-Supervised Text Classification \[[Slides](Part3.pdf)\]
+* Summary \[[Slides](Part4.pdf)\]
 
 ## Presenters
 
