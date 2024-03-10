@@ -11,7 +11,7 @@ Structure-aware Knowledge Discovery
 Bowen Jin, Yu Zhang, Sha Li, Jiawei Han<br/>
 Computer Science Department, University of Illinois at Urbana-Champaign<br/>
 <!-- Time: Aug 9, 2023 10:00 AM - 1:00 PM (PDT) -->
-Time: To be decided.
+Time: Mar 4th, 2024.
 </center>
 
 ## Abstract
