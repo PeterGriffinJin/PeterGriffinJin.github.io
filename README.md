@@ -9,7 +9,7 @@ For further information, please see my [CV](Bowen__CV.pdf).
 I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
 ### News
-- [2024.2] Thrilled to receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024)!
+- [2024.3] Thrilled to receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024)!
 - [2024.2] Will join Google Cloud AI as a student researcher this summer!
 
 <!-- - [2023.10] One paper on learning multiplex node embeddings on text-attributed network has been accepted by NeurIPs 2023 GLFrontiers Workshop!
