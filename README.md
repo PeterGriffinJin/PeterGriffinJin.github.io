@@ -10,7 +10,8 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 ### News
 - [2024.3] Thrilled to receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024)!
-- [2024.2] Will join Google Cloud AI as a student researcher this summer!
+
+<!-- - [2024.2] Will join Google Cloud AI as a student researcher this summer! -->
 
 <!-- - [2023.10] One paper on learning multiplex node embeddings on text-attributed network has been accepted by NeurIPs 2023 GLFrontiers Workshop!
 - [2023.10] One tutorial proposal on bridging text data and graph data has been accepted by WSDM 2023!
