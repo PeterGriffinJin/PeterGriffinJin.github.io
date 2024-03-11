@@ -1,4 +1,4 @@
-I am a 3rd-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign, fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Before that, I was an undergraduate student in Electrical Engineering of Tsinghua University, fortunately advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). During the past, I spent time at Amazon Search, Microsoft Research (both Redmond and Beijing), UCLA and Umich.
+I am a 3rd-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign, fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Before that, I was an undergraduate student in Electrical Engineering of Tsinghua University, fortunately advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). During the past, I spent time at Amazon Search, Microsoft Research (both Redmond and Beijing), UCLA and Umich. I receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) in 2024.
 
 For further information, please see my [CV](Bowen__CV.pdf).
 
@@ -9,7 +9,9 @@ For further information, please see my [CV](Bowen__CV.pdf).
 I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
 ### News
+- [2024.2] Thrilled to receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024)!
 - [2024.2] Will join Google Cloud AI as a student researcher this summer!
+
 <!-- - [2023.10] One paper on learning multiplex node embeddings on text-attributed network has been accepted by NeurIPs 2023 GLFrontiers Workshop!
 - [2023.10] One tutorial proposal on bridging text data and graph data has been accepted by WSDM 2023!
 - [2023.09] I am excited to be the Guest Instructor for UIUC [CS512: Data Mining Principles](https://cs.illinois.edu/academics/courses/cs512). -->
