@@ -35,6 +35,12 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 <br>*preprint 2023*.
 <br>[[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)] [[Code]()]
 
+- [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/pdf/2402.11142v1.pdf)
+<br>Sizhe Zhou, Yu Meng, **Bowen Jin**, Jiawei Han.
+<br>*preprint 2024*.
+<br>[[PDF](https://arxiv.org/pdf/2402.11142v1.pdf)] [[Code]()]
+
+
 - [“Why Should I Review This Paper?” Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483.pdf)
 <br>Yu Zhang, Yanzhen Shen, Xiusi Chen, **Bowen Jin**, Jiawei Han.
 <br>*preprint 2023*.
