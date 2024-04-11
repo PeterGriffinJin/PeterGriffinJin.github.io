@@ -25,6 +25,12 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 (\* denotes equal contribution)
 
 ### Preprints
+- [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs
+](https://arxiv.org/abs/2404.07103)
+<br>**Bowen Jin**, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han
+<br>*preprint 2024*.
+<br>[[PDF](https://arxiv.org/abs/2404.07103)] [[Code](https://github.com/PeterGriffinJin/Graph-CoT)]
+
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
 <br>**Bowen Jin**, Gang Liu, Chi Han, Meng Jiang, Heng Ji, Jiawei Han
 <br>*preprint 2023*.
@@ -33,7 +39,7 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 - [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815v1.pdf)
 <br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, et al.
 <br>*preprint 2023*.
-<br>[[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)] [[Code]()]
+<br>[[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)]
 
 - [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/pdf/2402.11142v1.pdf)
 <br>Sizhe Zhou, Yu Meng, **Bowen Jin**, Jiawei Han.
@@ -73,7 +79,7 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 - [Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder](https://arxiv.org/pdf/2310.06684v1.pdf)
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Han Zhao, Jiawei Han.
 <br>*NeurIPs 2023 (GLFrontiers)*.
-<br>[[PDF](https://arxiv.org/pdf/2310.06684v1.pdf)] [[Code](https://github.com/PeterGriffinJin/METERN-submit)]
+<br>[[PDF](https://arxiv.org/pdf/2310.06684v1.pdf)] [[Code](https://github.com/PeterGriffinJin/METAG)]
 
 - [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
