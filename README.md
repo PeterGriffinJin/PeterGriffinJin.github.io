@@ -58,20 +58,20 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 <br>*WWW 2024*.
 <br>[[PDF](https://arxiv.org/pdf/2311.09134.pdf)] [[Code](https://github.com/HansiZeng/RIPOR)]
 
-- [Improving Retrieval in Theme-specific Applications using a Corpus Topical Taxonomy]()
+- [Improving Retrieval in Theme-specific Applications using a Corpus Topical Taxonomy](https://arxiv.org/abs/2403.04160)
 <br>SeongKu Kang, Shivam Agarwal, **Bowen Jin**, Dongha Lee, Hwanjo Yu, Jiawei Han.
 <br>*WWW 2024*.
-<br>[[PDF]()] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2403.04160)] [[Code](https://github.com/SeongKu-Kang/ToTER_WWW24)]
 
-- [Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm]()
+- [Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm](https://arxiv.org/abs/2403.10667)
 <br>Tianxin Wei, **Bowen Jin**, Ruirui Li, Hansi Zeng, Zhengyang Wang, et al.
 <br>*ICLR 2024*.
-<br>[[PDF]()] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2403.10667)] [[Code](https://github.com/weitianxin/UniMP)]
 
-- [Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery]()
+- [Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery](https://dl.acm.org/doi/10.1145/3616855.3636450)
 <br>**Bowen Jin**, Yu Zhang, Sha Li, Jiawei Han.
 <br>*WSDM 2024 (Tutorial)*.
-<br>[[PDF]()] [[Tutorial Page](tutorials/wsdm24.md)]
+<br>[[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)] [[Tutorial Page](tutorials/wsdm24.md)]
 
 
 ### 2023
