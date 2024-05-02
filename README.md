@@ -27,12 +27,12 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 ### Preprints
 - [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](https://arxiv.org/abs/2404.07103)
-<br>**Bowen Jin**, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han
+<br>**Bowen Jin**, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han.
 <br>*preprint 2024*.
 <br>[[PDF](https://arxiv.org/abs/2404.07103)] [[Code](https://github.com/PeterGriffinJin/Graph-CoT)] [[Data](https://huggingface.co/datasets/PeterJinGo/GRBench)]
 
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
-<br>**Bowen Jin**, Gang Liu, Chi Han, Meng Jiang, Heng Ji, Jiawei Han
+<br>**Bowen Jin**, Gang Liu, Chi Han, Meng Jiang, Heng Ji, Jiawei Han.
 <br>*preprint 2023*.
 <br>[[PDF](https://arxiv.org/abs/2312.02783)] [[Repo](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 
@@ -50,7 +50,7 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 ### 2024
 - [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815v1.pdf)
-<br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, Ruirui Li, Zhengyang Wang, Zheng Li, Yang Li, Hanqing Lu, Suhang Wang, Jiawei Han, Xianfeng Tang.
+<br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, Ruirui Li, et al.
 <br>*ICML 2024*.
 <br>[[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)]
 
