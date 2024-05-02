@@ -9,6 +9,7 @@ I receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updat
 I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
 ### News
+- [2023.4] One paper on generative IR has been accepted by ICML 2024!
 - [2024.3] Thrilled to receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024)!
 
 <!-- - [2024.2] Will join Google Cloud AI as a student researcher this summer! -->
@@ -35,11 +36,6 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 <br>*preprint 2023*.
 <br>[[PDF](https://arxiv.org/abs/2312.02783)] [[Repo](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 
-- [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815v1.pdf)
-<br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, et al.
-<br>*preprint 2023*.
-<br>[[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)]
-
 - [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/pdf/2402.11142v1.pdf)
 <br>Sizhe Zhou, Yu Meng, **Bowen Jin**, Jiawei Han.
 <br>*preprint 2024*.
@@ -53,6 +49,11 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 
 ### 2024
+- [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815v1.pdf)
+<br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, et al.
+<br>*ICML 2024*.
+<br>[[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)]
+
 - [Scalable and Effective Generative Information Retrieval](https://arxiv.org/pdf/2311.09134.pdf)
 <br>Hansi Zeng, Chen Luo, **Bowen Jin**, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani.
 <br>*WWW 2024*.
