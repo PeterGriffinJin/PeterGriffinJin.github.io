@@ -50,7 +50,7 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 ### 2024
 - [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815v1.pdf)
-<br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, et al.
+<br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, Ruirui Li, et al.
 <br>*ICML 2024*.
 <br>[[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)]
 
