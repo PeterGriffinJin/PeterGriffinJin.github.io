@@ -52,7 +52,7 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 - [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815v1.pdf)
 <br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, Ruirui Li, et al.
 <br>*ICML 2024*.
-<br>[[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)]
+<br>[[PDF](https://arxiv.org/pdf/2310.07815.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)]
 
 - [Scalable and Effective Generative Information Retrieval](https://arxiv.org/pdf/2311.09134.pdf)
 <br>Hansi Zeng, Chen Luo, **Bowen Jin**, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani.
