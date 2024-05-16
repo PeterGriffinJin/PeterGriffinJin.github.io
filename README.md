@@ -47,7 +47,7 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 ### 2024
 - [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](https://arxiv.org/abs/2404.07103)
 <br>**Bowen Jin**, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han.
-<br>*ACL 2024*.
+<br>*ACL 2024 (findings)*.
 <br>[[PDF](https://arxiv.org/abs/2404.07103)] [[Code](https://github.com/PeterGriffinJin/Graph-CoT)] [[Data](https://huggingface.co/datasets/PeterJinGo/GRBench)]
 
 - [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815.pdf)
@@ -99,7 +99,7 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 - [Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models]()
 <br>Pengcheng Jiang, Shivam Agarwal, **Bowen Jin**, Xuan Wang, Jimeng Sun, Jiawei Han
-<br>*Findings of ACL 2023*.
+<br>*ACL 2023 (findings)*.
 <br>[[PDF](https://arxiv.org/abs/2305.15597)] [[Code](https://github.com/pat-jj/TagReal)]
 
 - [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
