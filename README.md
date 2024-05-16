@@ -9,6 +9,7 @@ I receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updat
 I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
 ### News
+- [2023.5] One paper on Graph CoT/RAG has been accepted by ACL 2024!
 - [2023.4] One paper on generative IR has been accepted by ICML 2024!
 - [2024.3] Thrilled to receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024)!
 
@@ -26,11 +27,6 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 (\* denotes equal contribution)
 
 ### Preprints
-- [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](https://arxiv.org/abs/2404.07103)
-<br>**Bowen Jin**, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han.
-<br>*preprint 2024*.
-<br>[[PDF](https://arxiv.org/abs/2404.07103)] [[Code](https://github.com/PeterGriffinJin/Graph-CoT)] [[Data](https://huggingface.co/datasets/PeterJinGo/GRBench)]
-
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
 <br>**Bowen Jin**, Gang Liu, Chi Han, Meng Jiang, Heng Ji, Jiawei Han.
 <br>*preprint 2023*.
@@ -49,6 +45,11 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 
 ### 2024
+- [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](https://arxiv.org/abs/2404.07103)
+<br>**Bowen Jin**, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han.
+<br>*ACL 2024*.
+<br>[[PDF](https://arxiv.org/abs/2404.07103)] [[Code](https://github.com/PeterGriffinJin/Graph-CoT)] [[Data](https://huggingface.co/datasets/PeterJinGo/GRBench)]
+
 - [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815.pdf)
 <br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, Ruirui Li, et al.
 <br>*ICML 2024*.
