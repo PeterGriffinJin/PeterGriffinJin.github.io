@@ -28,13 +28,19 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 ### Preprints
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
-<br>**Bowen Jin**, Gang Liu, Chi Han, Meng Jiang, Heng Ji, Jiawei Han.
-<br>*preprint 2023*.
+<br>**Bowen Jin***, Gang Liu*, Chi Han*, Meng Jiang, Heng Ji, Jiawei Han.
+<br>*preprint*.
 <br>[[PDF](https://arxiv.org/abs/2312.02783)] [[Repo](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
+
+- [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)
+<br>Yu Zhang*, Xiusi Chen*, **Bowen Jin***, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han.
+<br>*preprint*.
+<br>[[PDF](https://arxiv.org/pdf/2406.10833)] [[Repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]
+
 
 - [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/pdf/2402.11142v1.pdf)
 <br>Sizhe Zhou, Yu Meng, **Bowen Jin**, Jiawei Han.
-<br>*preprint 2024*.
+<br>*preprint*.
 <br>[[PDF](https://arxiv.org/pdf/2402.11142v1.pdf)] [[Code]()]
 
 
