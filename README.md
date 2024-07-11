@@ -9,6 +9,7 @@ I receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updat
 I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
 ### News
+- [2023.7] One paper on LLM instruction tuning has been accepted by COLM 2024!
 - [2023.5] One paper on Graph CoT/RAG has been accepted by ACL 2024!
 - [2023.4] One paper on generative IR has been accepted by ICML 2024!
 - [2024.3] Thrilled to receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024)!
