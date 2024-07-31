@@ -88,10 +88,10 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 
 ### 2023
-- [Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder](https://arxiv.org/pdf/2310.06684v1.pdf)
+- [Learning Multiplex Representations on Text-Attributed Graphs with One Language Model Encoder](https://arxiv.org/pdf/2310.06684.pdf)
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Han Zhao, Jiawei Han.
 <br>*NeurIPs 2023 (GLFrontiers)*.
-<br>[[PDF](https://arxiv.org/pdf/2310.06684v1.pdf)] [[Code](https://github.com/PeterGriffinJin/METAG)]
+<br>[[PDF](https://arxiv.org/pdf/2310.06684.pdf)] [[Code](https://github.com/PeterGriffinJin/METAG)]
 
 - [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
