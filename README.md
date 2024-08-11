@@ -5,7 +5,6 @@ I receive the [**Apple PhD Fellowship**](https://machinelearning.apple.com/updat
 **Research Interests**: My research lies at the intersection of large language models, information networks and text/data mining. In particular, I focus on how language models can integrate text, network, and multimodal data for solving real world problems including information retrieval and knowledge discovery.
 <!-- My current research interests lie in mining unstructured data (e.g., text), structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval. -->
 
-
 I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
 ### News
@@ -135,8 +134,10 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 - Tsinghua University, B.S. in Electrical Engineering and Statistics (2017 - 2021). 
 
 ## Professional Experience
+- Google Cloud Research - Student Researcher
+<br> 2024.05-now
 - Amazon Search - Applied Scientist Intern
-<br> 2023.05-2023.09
+<br> 2023.05-2023.12
 <!-- <br> Supervised by Dr. [Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). -->
 - Microsoft Research - Research Intern
 <br> 2022.05-2022.09
@@ -144,11 +145,11 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 - Microsoft Research (Asia) - Research Intern
 <br> 2020.09-2021.3
 <!-- <br> Supervised by Dr. [Zheng Liu](https://zhengliu101.github.io/). -->
-- University of California, Los Angeles - Research Assistant
-<br> 2020.05-2020.09
+<!-- - University of California, Los Angeles - Research Assistant -->
+<!-- <br> 2020.05-2020.09 -->
 <!-- <br> Supervised by Dr. [Yizhou Sun](https://web.cs.ucla.edu/~yzsun/). -->
-- University of Michigan - Research Assistant
-<br> 2019.06-2019.09
+<!-- - University of Michigan - Research Assistant -->
+<!-- <br> 2019.06-2019.09 -->
 <!-- <br> Supervised by Dr. [Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/). -->
 
 ## Professional Service
