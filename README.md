@@ -60,10 +60,10 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 <br>*ICML 2024*.
 <br>[[PDF](https://arxiv.org/pdf/2310.07815.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)]
 
-- [Investigating Instruction Tuning Large Language Models on Graphs]()
+- [Investigating Instruction Tuning Large Language Models on Graphs](https://arxiv.org/abs/2408.05457)
 <br>Kerui Zhu\*, Bo-Wei Huang\*, **Bowen Jin**\*, Yizhu Jiao, Ming Zhong, Kevin Chang, Shou-De Lin, Jiawei Han.
 <br>*COLM 2024*.
-<br>[[PDF]()] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2408.05457)] [[Code](https://github.com/ZhuKerui/graph-instruction-tuning)]
 
 - [Scalable and Effective Generative Information Retrieval](https://arxiv.org/pdf/2311.09134.pdf)
 <br>Hansi Zeng, Chen Luo, **Bowen Jin**, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani.
