@@ -27,11 +27,6 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 (\* denotes equal contribution)
 
 ### Preprints
-- [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
-<br>**Bowen Jin**\*, Gang Liu\*, Chi Han\*, Meng Jiang, Heng Ji, Jiawei Han.
-<br>*preprint*.
-<br>[[PDF](https://arxiv.org/abs/2312.02783)] [[Repo](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
-
 - [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)
 <br>Yu Zhang\*, Xiusi Chen\*, **Bowen Jin**\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han.
 <br>*preprint*.
@@ -47,6 +42,12 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 <br>Yu Zhang, Yanzhen Shen, Xiusi Chen, **Bowen Jin**, Jiawei Han.
 <br>*preprint 2023*.
 <br>[[PDF](https://arxiv.org/pdf/2310.14483.pdf)] [[Code]()] -->
+
+### Surveys
+- [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
+<br>**Bowen Jin**\*, Gang Liu\*, Chi Han\*, Meng Jiang, Heng Ji, Jiawei Han.
+<br>*TKDE 2024*.
+<br>[[PDF](https://arxiv.org/abs/2312.02783)] [[Repo](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 
 
 ### 2024
