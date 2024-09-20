@@ -35,7 +35,7 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 ### Surveys
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
 <br>**Bowen Jin**\*, Gang Liu\*, Chi Han\*, Meng Jiang, Heng Ji, Jiawei Han.
-<br>*TKDE 2024*.
+<br>*Transactions on Knowledge and Data Engineering (TKDE) 2024*.
 <br>[[PDF](https://arxiv.org/abs/2312.02783)] [[Repo](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 
 
