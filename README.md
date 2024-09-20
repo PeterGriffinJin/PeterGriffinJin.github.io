@@ -27,17 +27,6 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 (\* denotes equal contribution)
 
 ### Preprints
-- [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)
-<br>Yu Zhang\*, Xiusi Chen\*, **Bowen Jin**\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han.
-<br>*preprint*.
-<br>[[PDF](https://arxiv.org/pdf/2406.10833)] [[Repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]
-
-- [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/pdf/2402.11142v1.pdf)
-<br>Sizhe Zhou, Yu Meng, **Bowen Jin**, Jiawei Han.
-<br>*preprint*.
-<br>[[PDF](https://arxiv.org/pdf/2402.11142v1.pdf)] [[Code]()]
-
-
 <!-- - [“Why Should I Review This Paper?” Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483.pdf)
 <br>Yu Zhang, Yanzhen Shen, Xiusi Chen, **Bowen Jin**, Jiawei Han.
 <br>*preprint 2023*.
@@ -65,6 +54,16 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 <br>Kerui Zhu\*, Bo-Wei Huang\*, **Bowen Jin**\*, Yizhu Jiao, Ming Zhong, Kevin Chang, Shou-De Lin, Jiawei Han.
 <br>*COLM 2024*.
 <br>[[PDF](https://arxiv.org/abs/2408.05457)] [[Code](https://github.com/ZhuKerui/graph-instruction-tuning)]
+
+- [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)
+<br>Yu Zhang\*, Xiusi Chen\*, **Bowen Jin**\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han.
+<br>*EMNLP 2024*.
+<br>[[PDF](https://arxiv.org/pdf/2406.10833)] [[Repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]
+
+- [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/pdf/2402.11142v1.pdf)
+<br>Sizhe Zhou, Yu Meng, **Bowen Jin**, Jiawei Han.
+<br>*EMNLP 2024*.
+<br>[[PDF](https://arxiv.org/pdf/2402.11142v1.pdf)] [[Code]()]
 
 - [Scalable and Effective Generative Information Retrieval](https://arxiv.org/pdf/2311.09134.pdf)
 <br>Hansi Zeng, Chen Luo, **Bowen Jin**, Sheikh Muhammad Sarwar, Tianxin Wei, Hamed Zamani.
@@ -98,26 +97,26 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 <br>*KDD 2023*.
 <br>[[PDF](https://arxiv.org/abs/2205.10282)] [[Code](https://github.com/PeterGriffinJin/Heterformer)]
 
-- [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/abs/2306.14003)
-<br>Yu Zhang, **Bowen Jin**, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, Yu Meng, Jiawei Han.
-<br>*KDD 2023*.
-<br>[[PDF](https://arxiv.org/abs/2306.14003)] [[Code](https://github.com/yuzhimanhua/FUTEX)]
-
 - [Patton: Language Model Pretraining on Text-rich Networks](https://arxiv.org/abs/2305.12268)
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
 <br>*ACL 2023 <span style="color:red">(Oral)</span>*.
 <br>[[PDF](https://arxiv.org/abs/2305.12268)] [[Code](https://github.com/PeterGriffinJin/Patton)]
-
-- [Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models]()
-<br>Pengcheng Jiang, Shivam Agarwal, **Bowen Jin**, Xuan Wang, Jimeng Sun, Jiawei Han
-<br>*ACL 2023 (findings)*.
-<br>[[PDF](https://arxiv.org/abs/2305.15597)] [[Code](https://github.com/pat-jj/TagReal)]
 
 - [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
 <br>**Bowen Jin**, Yu Zhang, Yu Meng, Jiawei Han.
 <br>*ICLR 2023 <span style="color:red">(Poster)</span>*.
 <!-- <br>*ICLR 2023*. -->
 <br>[[PDF](https://openreview.net/pdf?id=2YQrqe4RNv)] [[Code](https://github.com/PeterGriffinJin/Edgeformers)]
+
+- [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/abs/2306.14003)
+<br>Yu Zhang, **Bowen Jin**, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, Yu Meng, Jiawei Han.
+<br>*KDD 2023*.
+<br>[[PDF](https://arxiv.org/abs/2306.14003)] [[Code](https://github.com/yuzhimanhua/FUTEX)]
+
+- [Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models]()
+<br>Pengcheng Jiang, Shivam Agarwal, **Bowen Jin**, Xuan Wang, Jimeng Sun, Jiawei Han
+<br>*ACL 2023 (findings)*.
+<br>[[PDF](https://arxiv.org/abs/2305.15597)] [[Code](https://github.com/pat-jj/TagReal)]
 
 - [The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study](https://arxiv.org/abs/2302.03341)
 <br>Yu Zhang, **Bowen Jin**, Qi Zhu, Yu Meng, Jiawei Han.
