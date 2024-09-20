@@ -105,7 +105,6 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 - [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
 <br>**Bowen Jin**, Yu Zhang, Yu Meng, Jiawei Han.
 <br>*ICLR 2023 <span style="color:red">(Poster)</span>*.
-<!-- <br>*ICLR 2023*. -->
 <br>[[PDF](https://openreview.net/pdf?id=2YQrqe4RNv)] [[Code](https://github.com/PeterGriffinJin/Edgeformers)]
 
 - [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/abs/2306.14003)
