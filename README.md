@@ -2,8 +2,12 @@ I am a 4th-year Ph.D. student in Computer Science at University of Illinois Urba
 
 My research is supported by [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) and [**Yunni and Maxine Pao Memorial Fellowship**](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship). For further information, please see my [CV](Bowen__CV.pdf) (last update: 2024.5.6).
 
-**Research Interests**: My research lies at the intersection of large language models, information networks and text/data mining. In particular, I focus on how language models can integrate text, network, and multimodal data for solving real world problems including information retrieval and knowledge discovery.
+**Research Interests**: My research lies at the intersection of large generative models (e.g., large language models and diffusion models) and information networks. In particular, I focus on how large models can integrate text, network, and multimodal data for solving real world problems including information retrieval and knowledge discovery.
 <!-- My current research interests lie in mining unstructured data (e.g., text), structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval. -->
+
+- **Large Generative Models + Graphs** ([Survey](https://arxiv.org/abs/2312.02783)): representation learning ([Heterformer](https://arxiv.org/abs/2205.10282),[Edgeformers](https://openreview.net/pdf?id=2YQrqe4RNv)), pretraining ([Patton](https://arxiv.org/abs/2305.12268)), graph plug-in ([Graph-CoT](https://arxiv.org/abs/2404.07103)) and multimodal synthesis ([InstructG2I]()).
+- **Large Generative Models + IR**: RAG and long-context LLM ([LongRAG]()), semantic indexer ([LMIndexer](https://arxiv.org/pdf/2310.07815.pdf)), Generative retrieval ([RIPOR](https://arxiv.org/pdf/2311.09134.pdf)), Generative recommendation ([UniMP](https://arxiv.org/abs/2403.10667)).
+- **Large Generative Models + Science** ([Survey](https://arxiv.org/pdf/2406.10833)): general science ([ToTER](https://arxiv.org/abs/2403.04160)), geospatial science ([GeoWise](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.55)), climate science ([CoDiCast](https://arxiv.org/pdf/2409.05975)).
 
 I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
