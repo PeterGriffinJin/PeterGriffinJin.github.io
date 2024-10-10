@@ -5,8 +5,8 @@ My research is supported by [**Apple PhD Fellowship**](https://machinelearning.a
 **Research Interests**: My research lies at the intersection of large generative models (e.g., large language models and diffusion models), multimodal data and information networks. In particular, I focus on how large models can integrate text, network, and multimodal data for solving real world problems including information retrieval and knowledge discovery.
 <!-- My current research interests lie in mining unstructured data (e.g., text), structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval. -->
 
-- **Large Generative Models + Graphs** ([Survey](https://arxiv.org/abs/2312.02783)): representation learning ([Heterformer](https://arxiv.org/abs/2205.10282), [Edgeformers](https://openreview.net/pdf?id=2YQrqe4RNv)), pretraining ([Patton](https://arxiv.org/abs/2305.12268)), graph plug-in ([Graph-CoT](https://arxiv.org/abs/2404.07103)) and multimodal synthesis ([InstructG2I]()).
-- **Large Generative Models + IR**: RAG and long-context LLM ([LongRAG]()), semantic indexer ([LMIndexer](https://arxiv.org/pdf/2310.07815.pdf)), generative retrieval ([RIPOR](https://arxiv.org/pdf/2311.09134.pdf)), generative recommendation ([UniMP](https://arxiv.org/abs/2403.10667)).
+- **Large Generative Models + Graphs** ([Survey](https://arxiv.org/abs/2312.02783)): representation learning ([Heterformer](https://arxiv.org/abs/2205.10282), [Edgeformers](https://openreview.net/pdf?id=2YQrqe4RNv)), pretraining ([Patton](https://arxiv.org/abs/2305.12268)), graph plug-in ([Graph-CoT](https://arxiv.org/abs/2404.07103)) and multimodal synthesis ([InstructG2I](https://arxiv.org/abs/2410.07157)).
+- **Large Generative Models + IR**: RAG and long-context LLM ([LongRAG](https://arxiv.org/abs/2410.05983.pdf)), semantic indexer ([LMIndexer](https://arxiv.org/pdf/2310.07815.pdf)), generative retrieval ([RIPOR](https://arxiv.org/pdf/2311.09134.pdf)), generative recommendation ([UniMP](https://arxiv.org/abs/2403.10667)).
 - **Large Generative Models + Science** ([Survey](https://arxiv.org/pdf/2406.10833)): general science ([MAPLE](https://arxiv.org/abs/2302.03341), [ToTER](https://arxiv.org/abs/2403.04160)), geospatial science ([GeoWise](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.55)), climate science ([CoDiCast](https://arxiv.org/pdf/2409.05975)).
 
 I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
@@ -32,11 +32,11 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 ## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao)
 (\* denotes equal contribution)
 
-<!-- ### Preprints -->
-<!-- - [“Why Should I Review This Paper?” Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching](https://arxiv.org/pdf/2310.14483.pdf)
-<br>Yu Zhang, Yanzhen Shen, Xiusi Chen, **Bowen Jin**, Jiawei Han.
-<br>*preprint 2023*.
-<br>[[PDF](https://arxiv.org/pdf/2310.14483.pdf)] [[Code]()] -->
+### Preprints
+- [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983.pdf)
+<br>**Bowen Jin**, Jinsung Yoon, Jiawei Han, Sercan O. Arik.
+<br>*preprint 2024*.
+<br>[[PDF](https://arxiv.org/abs/2410.05983.pdf)] [[Code]()]
 
 ### Surveys
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
@@ -46,10 +46,10 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 
 ### 2024
-- [InstructG2I: Synthesizing Images from Multimodal Attributed Graphs]()
+- [InstructG2I: Synthesizing Images from Multimodal Attributed Graphs](https://arxiv.org/abs/2410.07157)
 <br>**Bowen Jin**, Ziqi Pang, Bingjun Guo, Yu-Xiong Wang, Jiaxuan You, Jiawei Han.
 <br>*NeurIPs 2024*.
-<br>[[PDF]()] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2410.07157)] [[Code](https://github.com/PeterGriffinJin/InstructG2I)] [[Project Page](https://instructg2i.github.io/)]
 
 - [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](https://arxiv.org/abs/2404.07103)
 <br>**Bowen Jin**, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han.
