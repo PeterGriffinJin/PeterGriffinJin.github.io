@@ -12,7 +12,7 @@ My research is supported by [**Apple PhD Fellowship**](https://machinelearning.a
 I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
 ### News
-- [2024.9] Gave a talk at Emory about [multimodal learning on graphs](talks/multimodal-learning-emory.pdf)!
+- [2024.10] Gave a talk at Emory about [multimodal learning on graphs](talks/multimodal-learning-emory.pdf)!
 - [2024.9] One paper on image synthesis on multimodal graphs has been accepted by NeurIPs 2024!
 - [2024.9] Two papers on scientific LLMs and LLMs for RE have been accepted by EMNLP 2024!
 <!-- - [2024.7] One paper on LLM instruction tuning has been accepted by COLM 2024! -->
@@ -174,7 +174,7 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 
 
 ## Talks
-- [2024.10.11] [Multimodal learning on graphs](talks/multimodal-learning-emory.pdf) at Emory.
+- [2024.10] [Multimodal learning on graphs](talks/multimodal-learning-emory.pdf) at Emory.
 
 <!-- - KDD 2023 Grand Award -->
 
