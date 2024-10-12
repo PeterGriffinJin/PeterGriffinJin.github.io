@@ -50,7 +50,7 @@ I am maintaining an awesome github repo on [**Large Language Models on Graphs**]
 - [InstructG2I: Synthesizing Images from Multimodal Attributed Graphs](https://arxiv.org/abs/2410.07157)
 <br>**Bowen Jin**, Ziqi Pang, Bingjun Guo, Yu-Xiong Wang, Jiaxuan You, Jiawei Han.
 <br>*NeurIPs 2024*.
-<br>[[PDF](https://arxiv.org/abs/2410.07157)] [[Code](https://github.com/PeterGriffinJin/InstructG2I)] [[Project Page](https://instructg2i.github.io/)]
+<br>[[PDF](https://arxiv.org/abs/2410.07157)] [[Code](https://github.com/PeterGriffinJin/InstructG2I)] [[Project Page](https://instructg2i.github.io/)] [[Media Coverage](https://www.marktechpost.com/2024/10/11/instructg2i-a-graph-context-aware-stable-diffusion-model-to-synthesize-images-from-multimodal-attributed-graphs/)]
 
 - [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](https://arxiv.org/abs/2404.07103)
 <br>**Bowen Jin**, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han.
