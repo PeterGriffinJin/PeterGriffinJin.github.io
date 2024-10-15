@@ -11,7 +11,7 @@ My research is supported by [**Apple PhD Fellowship**](https://machinelearning.a
 
 I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
-<span style="color:red">If you're interested in my research or would like to discuss relevant topics and potential collaborations, feel free to reach out via email! I also welcome inquiries from both master's and undergraduate students. Looking forward to connecting!</span>
+<span style="color:red">If you're interested in my research or would like to discuss relevant topics and potential collaborations, feel free to reach out via email (bowenj4[AT]illinois.edu)! I also welcome inquiries from both master's and undergraduate students. Looking forward to connecting!</span>
 
 ### News
 - [2024.10] Gave a talk at Emory about [multimodal learning on graphs](talks/multimodal-learning-emory.pdf)!
