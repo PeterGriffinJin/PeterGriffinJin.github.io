@@ -9,7 +9,7 @@ My research is supported by [**Apple PhD Fellowship**](https://machinelearning.a
 - **Large Generative Models + IR**: RAG and long-context LLM ([LongRAG](https://arxiv.org/abs/2410.05983.pdf)), semantic indexer ([LMIndexer](https://arxiv.org/pdf/2310.07815.pdf)), generative retrieval ([RIPOR](https://arxiv.org/pdf/2311.09134.pdf)) and generative recommendation ([UniMP](https://arxiv.org/abs/2403.10667)).
 - **Large Generative Models + Science** ([Survey](https://arxiv.org/pdf/2406.10833)): general science ([MAPLE](https://arxiv.org/abs/2302.03341), [ToTER](https://arxiv.org/abs/2403.04160)), geospatial science ([GeoWise](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.55)), climate science ([CoDiCast](https://arxiv.org/pdf/2409.05975)) and healthcare ([RAM-EHR](https://arxiv.org/abs/2403.00815)).
 
-I am maintaining an awesome github repo on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
+I am maintaining an awesome github repos on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) and [**Multimodal Learning on Graphs**](https://github.com/PeterGriffinJin/Awesome-Multimodal-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
 <span style="color:red">If you're interested in my research or would like to discuss relevant topics and potential collaborations, feel free to reach out via email (bowenj4[AT]illinois.edu)! I also welcome inquiries from both master's and undergraduate students. Looking forward to connecting!</span>
 
