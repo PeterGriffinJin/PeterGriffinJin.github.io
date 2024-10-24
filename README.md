@@ -47,6 +47,12 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 <br>*Transactions on Knowledge and Data Engineering (TKDE) 2024*.
 <br>[[PDF](https://arxiv.org/abs/2312.02783)] [[Repo](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)] <span style="color:red">700+ stars</span>
 
+### 2025
+- [Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation]()
+<br>SeongKu Kang, **Bowen Jin**, Wonbin Kweon, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu.
+<br>*WSDM 2025*.
+<br>[[PDF]()] [[Code]()]
+
 
 ### 2024
 - [InstructG2I: Synthesizing Images from Multimodal Attributed Graphs](https://arxiv.org/abs/2410.07157)
