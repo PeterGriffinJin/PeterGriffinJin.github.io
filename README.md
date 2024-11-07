@@ -14,6 +14,7 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 <span style="color:red">If you're interested in my research or would like to discuss relevant topics and potential collaborations, feel free to reach out via email (bowenj4[AT]illinois.edu)! I also welcome inquiries from both master's and undergraduate students, especially those from underrepresented groups. Looking forward to connecting!</span>
 
 ### News
+- [2024.11] Receive the NeurIPs 2024 Top Reviewer Award!
 - [2024.10] Gave a talk at Emory about [multimodal learning on graphs](talks/multimodal-learning-emory.pdf)!
 - [2024.9] One paper on image synthesis on multimodal graphs has been accepted by NeurIPs 2024!
 - [2024.9] Two papers on scientific LLMs and LLMs for RE have been accepted by EMNLP 2024!
