@@ -1,6 +1,6 @@
 I am a 4th-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign, fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Before that, I was an undergraduate student in Electrical Engineering of Tsinghua University, fortunately advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). During the past, I spent time at Google, Amazon Search, and Microsoft Research (both Redmond and Beijing).
 
-My research is supported by [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) and [**Yunni and Maxine Pao Memorial Fellowship**](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship). For further information, please see my [CV](Bowen__CV.pdf) (last update: 2024.5.6).
+My research is supported by [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) and [**Yunni and Maxine Pao Memorial Fellowship**](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship). For further information, please see my [CV](Bowen__CV.pdf) (last update: 2024.11.16).
 
 **Research Interests**: My main research lies at the intersection of large generative models (e.g., large language models and diffusion models), multimodal data and information networks. In particular, I focus on how large models can integrate text, network, and multimodal data for solving real world problems including information retrieval and knowledge discovery. My current research interest is **LLM alignment** and **RLHF**.
 <!-- My current research interests lie in mining unstructured data (e.g., text), structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval. -->
@@ -14,7 +14,7 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 <span style="color:red">If you're interested in my research or would like to discuss relevant topics and potential collaborations, feel free to reach out via email (bowenj4[AT]illinois.edu)! I also welcome inquiries from both master's and undergraduate students, especially those from underrepresented groups. Looking forward to connecting!</span>
 
 ### News
-- [2024.11] Receive the NeurIPs 2024 Top Reviewer Award!
+- [2024.11] Received the NeurIPs 2024 Top Reviewer Award!
 - [2024.10] Gave a talk at Emory about [multimodal learning on graphs](talks/multimodal-learning-emory.pdf)!
 - [2024.9] One paper on image synthesis on multimodal graphs has been accepted by NeurIPs 2024!
 - [2024.9] Two papers on scientific LLMs and LLMs for RE have been accepted by EMNLP 2024!
