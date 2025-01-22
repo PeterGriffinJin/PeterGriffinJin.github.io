@@ -14,11 +14,12 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 <span style="color:red">If you're interested in my research or would like to discuss relevant topics and potential collaborations, feel free to reach out via email (bowenj4[AT]illinois.edu)! I also welcome inquiries from both master's and undergraduate students, especially those from underrepresented groups. Looking forward to connecting!</span>
 
 ### News
-- [2024.11] Gave a talk at BuzzRobot about [long-context LLM and RAG](https://www.youtube.com/watch?v=410PdHBkWO4)!
-- [2024.11] Received the NeurIPs 2024 Top Reviewer Award!
-- [2024.10] Gave a talk at Emory about [multimodal learning on graphs](talks/multimodal-learning-emory.pdf)!
-- [2024.9] One paper on image synthesis on multimodal graphs has been accepted by NeurIPs 2024!
-- [2024.9] Two papers on scientific LLMs and LLMs for RE have been accepted by EMNLP 2024!
+- [2025.1] One paper on long-context LLM/RAG has been accepted by ICLR 2025!
+<!-- - [2024.11] Gave a talk at BuzzRobot about [long-context LLM and RAG](https://www.youtube.com/watch?v=410PdHBkWO4)! -->
+<!-- - [2024.11] Received the NeurIPs 2024 Top Reviewer Award! -->
+<!-- - [2024.10] Gave a talk at Emory about [multimodal learning on graphs](talks/multimodal-learning-emory.pdf)! -->
+<!-- - [2024.9] One paper on image synthesis on multimodal graphs has been accepted by NeurIPs 2024! -->
+<!-- - [2024.9] Two papers on scientific LLMs and LLMs for RE have been accepted by EMNLP 2024! -->
 <!-- - [2024.7] One paper on LLM instruction tuning has been accepted by COLM 2024! -->
 <!-- - [2024.5] One paper on Graph CoT/RAG has been accepted by ACL 2024! -->
 <!-- - [2024.4] One paper on generative IR has been accepted by ICML 2024! -->
@@ -37,11 +38,8 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 ## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao)
 (\* denotes equal contribution)
 
-### Preprints
-- [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983.pdf)
-<br>**Bowen Jin**, Jinsung Yoon, Jiawei Han, Sercan O. Arik.
-<br>*preprint 2024*.
-<br>[[PDF](https://arxiv.org/abs/2410.05983.pdf)] [[Code]()]
+<!-- ### Preprints -->
+
 
 ### Surveys
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
@@ -50,6 +48,11 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 <br>[[PDF](https://arxiv.org/abs/2312.02783)] [[Repo](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)] <span style="color:red">800+ stars</span>
 
 ### 2025
+- [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983.pdf)
+<br>**Bowen Jin**, Jinsung Yoon, Jiawei Han, Sercan O. Arik.
+<br>*ICLR 2025*.
+<br>[[PDF](https://arxiv.org/abs/2410.05983.pdf)] [[Code]()]
+
 - [Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation]()
 <br>SeongKu Kang, **Bowen Jin**, Wonbin Kweon, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu.
 <br>*WSDM 2025*.
