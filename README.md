@@ -38,8 +38,11 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 ## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao)
 (\* denotes equal contribution)
 
-<!-- ### Preprints -->
-
+### Preprints
+- [LLM Alignment as Retriever Optimization: An Information Retrieval Perspective](https://arxiv.org/abs/2502.03699)
+<br>**Bowen Jin**, Jinsung Yoon, Zhen Qin, Ziqi Wang, Wei Xiong, Yu Meng, Jiawei Han, Sercan O. Arik.
+<br>*ICLR 2025*.
+<br>[[PDF](https://arxiv.org/abs/2502.03699)] [[Code]()]
 
 ### Surveys
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
