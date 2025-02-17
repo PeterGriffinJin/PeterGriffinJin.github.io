@@ -180,13 +180,27 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 <!-- <br> Supervised by Dr. [Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/). -->
 
 ## Professional Service
-- Reviewer: WSDM 2023, KDD 2023, NeurIPs 2023, ICLR 2024, WWW 2024, SDM 2024, ACL 2024, ICML 2024, COLM 2024, NeurIPs 2024
+- Reviewer: 
+  - WSDM 2023, KDD 2023, NeurIPs 2023
+  - ICLR 2024, WWW 2024, SDM 2024, ACL 2024, ICML 2024, COLM 2024, NeurIPs 2024
+  - ICLR 2025, WWW 2025, ACL 2025, ICML 2025
 
-- Journal Reviewer: TKDE, TOIS, TBD
+- Journal Reviewer: 
+  - *IEEE Transactions on Knowledge and Data Engineering (TKDE)*  
+  - *ACM Transactions on Information Systems (TOIS)*  
+  - *IEEE Transactions on Big Data (TBD)* 
 
-- Guest Instructor: UIUC Fall23 [CS512](https://cs.illinois.edu/academics/courses/cs512)
+- Guest Instructor: 
+  - UIUC, Fall 2023 - [CS 512: Data Mining Principles](https://cs.illinois.edu/academics/courses/cs512)  
 
-- Lead TA: UIUC Spring24 [CS412](https://cs.illinois.edu/academics/courses/cs412)
+- Lead TA: 
+  - UIUC, Spring 2024 - [CS 412: Introduction to Data Mining](https://cs.illinois.edu/academics/courses/cs412)  
+
+
+
+
+
+
 
 
 ## Talks
