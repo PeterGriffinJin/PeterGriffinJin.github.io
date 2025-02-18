@@ -44,6 +44,12 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 <br>*preprint 2025*.
 <br>[[PDF](https://arxiv.org/abs/2502.03699)] [[Code]()]
 
+- [GRAPHGPT-O: Synergistic Multimodal Comprehension and Generation on Graphs](https://arxiv.org/abs/2502.11925)
+<br>Yi Fang\*, **Bowen Jin**\*, Jiacheng Shen\*, Sirui Ding, Qiaoyu Tan, Jiawei Han.
+<br>*preprint 2025*.
+<br>[[PDF](https://arxiv.org/abs/2502.11925)] [[Code]()]
+
+
 ### Surveys
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
 <br>**Bowen Jin**\*, Gang Liu\*, Chi Han\*, Meng Jiang, Heng Ji, Jiawei Han.
@@ -56,10 +62,10 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 <br>*ICLR 2025*.
 <br>[[PDF](https://arxiv.org/abs/2410.05983.pdf)] [[Code]()]
 
-- [Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation]()
+- [Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation](https://arxiv.org/abs/2502.11181)
 <br>SeongKu Kang, **Bowen Jin**, Wonbin Kweon, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu.
 <br>*WSDM 2025*.
-<br>[[PDF]()] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2502.11181)] [[Code]()]
 
 
 ### 2024
