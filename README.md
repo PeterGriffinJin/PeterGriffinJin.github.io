@@ -51,6 +51,12 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 <br>*Transactions on Knowledge and Data Engineering (TKDE) 2024*.
 <br>[[PDF](https://arxiv.org/abs/2312.02783)] [[Repo](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)] <span style="color:red">800+ stars</span>
 
+- [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)
+<br>Yu Zhang\*, Xiusi Chen\*, **Bowen Jin**\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han.
+<br>*EMNLP 2024*.
+<br>[[PDF](https://arxiv.org/pdf/2406.10833)] [[Repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)] <span style="color:red">500+ stars</span>
+
+
 ### 2025
 - [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983.pdf)
 <br>**Bowen Jin**, Jinsung Yoon, Jiawei Han, Sercan O. Arik.
@@ -88,11 +94,6 @@ I am maintaining awesome github repos on [**Large Language Models on Graphs**](h
 <br>Kerui Zhu\*, Bo-Wei Huang\*, **Bowen Jin**\*, Yizhu Jiao, Ming Zhong, Kevin Chang, Shou-De Lin, Jiawei Han.
 <br>*COLM 2024*.
 <br>[[PDF](https://arxiv.org/abs/2408.05457)] [[Code](https://github.com/ZhuKerui/graph-instruction-tuning)]
-
-- [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)
-<br>Yu Zhang\*, Xiusi Chen\*, **Bowen Jin**\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han.
-<br>*EMNLP 2024*.
-<br>[[PDF](https://arxiv.org/pdf/2406.10833)] [[Repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]
 
 - [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/pdf/2402.11142v1.pdf)
 <br>Sizhe Zhou, Yu Meng, **Bowen Jin**, Jiawei Han.
