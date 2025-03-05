@@ -200,15 +200,11 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
   - *IEEE Transactions on Big Data (TBD)* 
 
 - Guest Instructor: 
-  - UIUC, Fall 2023 - [CS 512: Data Mining Principles](https://cs.illinois.edu/academics/courses/cs512)  
+  - Northwestern University, Spring 2025 - [CS 396: Reasoning and Planning in the Foundation Model Era](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-3.html)
+  - UIUC, Fall 2023 - [CS 512: Data Mining Principles](https://cs.illinois.edu/academics/courses/cs512)
 
 - Lead TA: 
   - UIUC, Spring 2024 - [CS 412: Introduction to Data Mining](https://cs.illinois.edu/academics/courses/cs412)  
-
-
-
-
-
 
 
 
