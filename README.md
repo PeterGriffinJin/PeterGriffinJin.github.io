@@ -41,6 +41,11 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 (\* denotes equal contribution)
 
 ### Preprints
+- [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
+<br>**Bowen Jin**, Hansi Zeng, Zhenrui Yue, Dong Wang, Hamed Zamani, Jiawei Han.
+<br>*preprint 2025*.
+<br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)]
+
 - [LLM Alignment as Retriever Optimization: An Information Retrieval Perspective](https://arxiv.org/abs/2502.03699)
 <br>**Bowen Jin**, Jinsung Yoon, Zhen Qin, Ziqi Wang, Wei Xiong, Yu Meng, Jiawei Han, Sercan O. Arik.
 <br>*preprint 2025*.
