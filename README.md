@@ -6,7 +6,7 @@ My research is supported by [**Apple PhD Fellowship**](https://machinelearning.a
 <!-- My current research interests lie in mining unstructured data (e.g., text), structured data (e.g., table, graph) and their intersection. I also had former experience in Recommender System, Information Extraction and Information Retrieval. -->
 
 - **Large Generative Models + Graphs** ([Survey](https://arxiv.org/abs/2312.02783)): representation learning ([Heterformer](https://arxiv.org/abs/2205.10282), [Edgeformers](https://openreview.net/pdf?id=2YQrqe4RNv)), pretraining ([Patton](https://arxiv.org/abs/2305.12268)), graph plug-in ([Graph-CoT](https://arxiv.org/abs/2404.07103)) and multimodal synthesis ([InstructG2I](https://arxiv.org/abs/2410.07157)).
-- **Large Generative Models + IR**: RAG and long-context LLM ([LongRAG](https://arxiv.org/abs/2410.05983.pdf)), semantic indexer ([LMIndexer](https://arxiv.org/pdf/2310.07815.pdf)), generative retrieval ([RIPOR](https://arxiv.org/pdf/2311.09134.pdf)) and generative recommendation ([UniMP](https://arxiv.org/abs/2403.10667)).
+- **Large Generative Models + IR**: reasoning-retrieval interleaved LLM with RL ([Search-R1](https://arxiv.org/abs/2503.09516)), RAG and long-context LLM ([LongRAG](https://arxiv.org/abs/2410.05983.pdf)), semantic indexer ([LMIndexer](https://arxiv.org/pdf/2310.07815.pdf)), generative retrieval ([RIPOR](https://arxiv.org/pdf/2311.09134.pdf)) and generative recommendation ([UniMP](https://arxiv.org/abs/2403.10667)).
 - **Large Generative Models + Science** ([Survey](https://arxiv.org/pdf/2406.10833)): general science ([MAPLE](https://arxiv.org/abs/2302.03341), [ToTER](https://arxiv.org/abs/2403.04160)), geospatial science ([GeoWise](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.55)), climate science ([CoDiCast](https://arxiv.org/pdf/2409.05975)) and healthcare ([RAM-EHR](https://arxiv.org/abs/2403.00815)).
 
 I am actively working on [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), an efficient RL framework for Deepseek-R1 style reasoning + search engine calling (OpenAI DeepResearch) LLM training.
@@ -16,6 +16,8 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <span style="color:red">If you're interested in my research or would like to discuss relevant topics and potential collaborations, feel free to reach out via email (bowenj4[AT]illinois.edu)! I also welcome inquiries from both master's and undergraduate students, especially those from underrepresented groups. Looking forward to connecting!</span>
 
 ### News
+- [2025.3] Gave a talk on [Search-R1](https://illinois.zoom.us/rec/share/S-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie?startTime=1741967885000) at UIUC-NLP Seminar.
+- [2025.3] Gave a guest lecture on Search-R1 at Northwestern University.
 - [2025.1] One paper on long-context LLM/RAG has been accepted by ICLR 2025!
 <!-- - [2024.11] Gave a talk at BuzzRobot about [long-context LLM and RAG](https://www.youtube.com/watch?v=410PdHBkWO4)! -->
 <!-- - [2024.11] Received the NeurIPs 2024 Top Reviewer Award! -->
@@ -44,7 +46,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 - [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
 <br>**Bowen Jin**, Hansi Zeng, Zhenrui Yue, Dong Wang, Hamed Zamani, Jiawei Han.
 <br>*preprint 2025*.
-<br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)]
+<br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)] <span style="color:red">1000+ stars in two weeks</span>
 
 - [LLM Alignment as Retriever Optimization: An Information Retrieval Perspective](https://arxiv.org/abs/2502.03699)
 <br>**Bowen Jin**, Jinsung Yoon, Zhen Qin, Ziqi Wang, Wei Xiong, Yu Meng, Jiawei Han, Sercan O. Arik.
@@ -214,6 +216,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 
 
 ## Talks
+- [2025.3] [Search-R1](https://illinois.zoom.us/rec/share/S-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie?startTime=1741967885000) at UIUC-NLP Seminar.
 - [2024.11] [long-context LLM and RAG](https://www.youtube.com/watch?v=410PdHBkWO4) at BuzzRobot.
 - [2024.10] [Multimodal learning on graphs](talks/multimodal-learning-emory.pdf) at Emory.
 
