@@ -58,7 +58,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
 <br>**Bowen Jin**\*, Gang Liu\*, Chi Han\*, Meng Jiang, Heng Ji, Jiawei Han.
 <br>*Transactions on Knowledge and Data Engineering (TKDE) 2024*.
-<br>[[PDF](https://arxiv.org/abs/2312.02783)] [[Repo](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)] <span style="color:red">800+ stars</span>
+<br>[[PDF](https://arxiv.org/abs/2312.02783)] [[Repo](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)] <span style="color:red">900+ stars</span>
 
 - [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)
 <br>Yu Zhang\*, Xiusi Chen\*, **Bowen Jin**\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han.
