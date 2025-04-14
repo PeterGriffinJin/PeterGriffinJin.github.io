@@ -62,7 +62,8 @@ The tutorial will be presented in 2 hours.
 <br/>
 <br/>
 
-<img align="left" img src="/img/Yunyi_Zhang.jpeg" alt="Yunyi Zhang" style="width: 200px;margin-right:50px;"/>**Yunyi Zhang**, Ph.D. student, Computer Science, UIUC. My research interests lie in text mining, especially for mining structured knowledge from unstructured text data with minimal supervision. He has numerous publications in ACL, EMNLP, KDD, and WWW.
+<img align="left" img src="/img/Yunyi_Zhang.jpeg" alt="Yunyi Zhang" style="width: 200px;margin-right:50px;"/>**Yunyi Zhang**, Ph.D. student, Computer Science, UIUC. 
+His research focuses on weakly supervised text mining, text classification, and taxonomy construction. He has numerous research publications at KDD, WWW, WSDM, ACL, and EMNLP and has delivered tutorials in EDBT'23, KDD'23, and KDD'24.
 
 
 <br/>
