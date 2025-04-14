@@ -34,10 +34,10 @@ The tutorial will be presented in 2 hours.
 
 ## Slides
 
-* Introduction \[[Slides](Part0.pdf)\]
-* Part I: Graph Mining with LLMs \[[Slides](Part1.pdf)\]
-* Part I: Text Mining with Structured Information \[[Slides](Part2.pdf)\]
-* Summary \[[Slides](Part3.pdf)\]
+* Introduction \[[Slides](sdm25/Part0.pdf)\]
+* Part I: Graph Mining with LLMs \[[Slides](sdm25/Part1.pdf)\]
+* Part I: Text Mining with Structured Information \[[Slides](sdm25/Part2.pdf)\]
+* Summary \[[Slides](sdm25/Part3.pdf)\]
 
 ## Presenters
 

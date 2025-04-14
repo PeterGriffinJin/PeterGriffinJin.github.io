@@ -39,11 +39,11 @@ We will present an organized picture of how graphs and texts can mutually benefi
 
 ## Slides
 
-* Introduction \[[Slides](Part0.pdf)\]
-* Part I: Introducing network structure into text corpus \[[Slides](Part1.pdf)\]
-* Part II: Graph Mining with LLMs \[[Slides](Part2.pdf)\]
-* Part III: Text Mining with Structured Information \[[Slides](Part3.pdf)\]
-* Summary \[[Slides](Part4.pdf)\]
+* Introduction \[[Slides](wsdm24/Part0.pdf)\]
+* Part I: Introducing network structure into text corpus \[[Slides](wsdm24/Part1.pdf)\]
+* Part II: Graph Mining with LLMs \[[Slides](wsdm24/Part2.pdf)\]
+* Part III: Text Mining with Structured Information \[[Slides](wsdm24/Part3.pdf)\]
+* Summary \[[Slides](wsdm24/Part4.pdf)\]
 
 ## Presenters
 

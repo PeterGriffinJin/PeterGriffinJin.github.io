@@ -85,7 +85,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 - [Integrating Textual and Graph Data: Advancing Knowledge Discovery with Semantic and Structural Insights](tutorials/sdm25/proposal.pdf)
 <br>**Bowen Jin**, Yu Zhang, Yunyi Zhang, Jiawei Han.
 <br>*SDM 2025 (Tutorial)*.
-<br>[[PDF](tutorials/sdm25/proposal.pdf)] [[Tutorial Page](tutorials/sdm25/sdm25.md)]
+<br>[[PDF](tutorials/sdm25/proposal.pdf)] [[Tutorial Page](tutorials/sdm25.md)]
 
 ### 2024
 - [InstructG2I: Synthesizing Images from Multimodal Attributed Graphs](https://arxiv.org/abs/2410.07157)
@@ -131,7 +131,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 - [Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery](https://dl.acm.org/doi/10.1145/3616855.3636450)
 <br>**Bowen Jin**, Yu Zhang, Sha Li, Jiawei Han.
 <br>*WSDM 2024 (Tutorial)*.
-<br>[[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)] [[Tutorial Page](tutorials/wsdm24/wsdm24.md)]
+<br>[[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)] [[Tutorial Page](tutorials/wsdm24.md)]
 
 
 ### 2023
