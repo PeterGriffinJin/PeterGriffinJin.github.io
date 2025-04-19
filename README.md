@@ -54,6 +54,24 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>[[PDF](https://arxiv.org/abs/2502.03699)] [[Code]()]
 
 
+### Tutorials
+
+- [Integrating Textual and Graph Data: Advancing Knowledge Discovery with Semantic and Structural Insights](tutorials/sdm25/proposal.pdf)
+<br>**Bowen Jin**, Yu Zhang, Yunyi Zhang, Jiawei Han.
+<br>*SDM 2025 (Tutorial)*.
+<br>[[PDF](tutorials/sdm25/proposal.pdf)] [[Tutorial Page](tutorials/sdm25.md)]
+
+- [Long Context vs. RAG: Strategies for Processing Long Documents in LLMs]()
+<br>Xinze Li, Yushi Bai, **Bowen Jin**, Fengbin Zhu, Liangming Pan and Yixin Cao.
+<br>*SIGIR 2025 (Tutorial)*.
+<br>[[PDF]()] [[Tutorial Page]()]
+
+- [Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery](https://dl.acm.org/doi/10.1145/3616855.3636450)
+<br>**Bowen Jin**, Yu Zhang, Sha Li, Jiawei Han.
+<br>*WSDM 2024 (Tutorial)*.
+<br>[[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)] [[Tutorial Page](tutorials/wsdm24.md)]
+
+
 ### Surveys
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
 <br>**Bowen Jin**\*, Gang Liu\*, Chi Han\*, Meng Jiang, Heng Ji, Jiawei Han.
@@ -81,11 +99,6 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>SeongKu Kang, **Bowen Jin**, Wonbin Kweon, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu.
 <br>*WSDM 2025*.
 <br>[[PDF](https://arxiv.org/abs/2502.11181)] [[Code]()]
-
-- [Integrating Textual and Graph Data: Advancing Knowledge Discovery with Semantic and Structural Insights](tutorials/sdm25/proposal.pdf)
-<br>**Bowen Jin**, Yu Zhang, Yunyi Zhang, Jiawei Han.
-<br>*SDM 2025 (Tutorial)*.
-<br>[[PDF](tutorials/sdm25/proposal.pdf)] [[Tutorial Page](tutorials/sdm25.md)]
 
 ### 2024
 - [InstructG2I: Synthesizing Images from Multimodal Attributed Graphs](https://arxiv.org/abs/2410.07157)
@@ -127,11 +140,6 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>Tianxin Wei, **Bowen Jin**, Ruirui Li, Hansi Zeng, Zhengyang Wang, et al.
 <br>*ICLR 2024*.
 <br>[[PDF](https://arxiv.org/abs/2403.10667)] [[Code](https://github.com/weitianxin/UniMP)]
-
-- [Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery](https://dl.acm.org/doi/10.1145/3616855.3636450)
-<br>**Bowen Jin**, Yu Zhang, Sha Li, Jiawei Han.
-<br>*WSDM 2024 (Tutorial)*.
-<br>[[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)] [[Tutorial Page](tutorials/wsdm24.md)]
 
 
 ### 2023
