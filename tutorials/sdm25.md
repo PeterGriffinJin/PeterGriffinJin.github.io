@@ -35,9 +35,9 @@ The tutorial will be presented in 2 hours.
 ## Slides
 
 * Introduction \[[Slides](sdm25/Part0.pdf)\]
-* Part I: Graph Mining with LLMs \[[Slides](sdm25/Part1.pdf)\]
-* Part I: Text Mining with Structured Information \[[Slides](sdm25/Part2.pdf)\]
-* Summary \[[Slides](sdm25/Part3.pdf)\]
+* Part I: A Retrieval and Graph Structuring Approach with Large Language Models \[[Slides](sdm25/Part1.pdf)\]
+* Part II: Improve Large Language Models for Search/Graph-Augmented Scenarios \[[Slides](sdm25/Part2.pdf)\]
+* Part III: Domain-specific Applications \[[Slides](sdm25/Part3.pdf)\]
 
 ## Presenters
 
