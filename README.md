@@ -96,7 +96,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>[[PDF](https://arxiv.org/abs/2502.11925)] [[Code]()]
 
 - [CoDiCast: Conditional Diffusion Model for Global Weather Forecasting with Uncertainty Quantification](https://arxiv.org/abs/2409.05975)
-<br>Jimeng Shi， **Bowen Jin**, Jiawei Han, Sundararaman Gopalakrishnan, Giri Narasimhan.
+<br>Jimeng Shi, **Bowen Jin**, Jiawei Han, Sundararaman Gopalakrishnan, Giri Narasimhan.
 <br>*IJCAI 2025*.
 <br>[[PDF](https://arxiv.org/abs/2409.05975)] [[Code]()]
 
