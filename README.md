@@ -95,6 +95,11 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>*CVPR 2025*.
 <br>[[PDF](https://arxiv.org/abs/2502.11925)] [[Code]()]
 
+- [CoDiCast: Conditional Diffusion Model for Global Weather Forecasting with Uncertainty Quantification](https://arxiv.org/abs/2409.05975)
+<br>Jimeng Shi， **Bowen Jin**, Jiawei Han, Sundararaman Gopalakrishnan, Giri Narasimhan.
+<br>*IJCAI 2025*.
+<br>[[PDF](https://arxiv.org/abs/2409.05975)] [[Code]()]
+
 - [Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation](https://arxiv.org/abs/2502.11181)
 <br>SeongKu Kang, **Bowen Jin**, Wonbin Kweon, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu.
 <br>*WSDM 2025*.
