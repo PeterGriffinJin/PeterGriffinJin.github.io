@@ -48,11 +48,6 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>*preprint 2025*.
 <br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)] [[Media](https://venturebeat.com/ai/beyond-rag-search-r1-integrates-search-engines-directly-into-reasoning-models/)] <span style="color:red">1000+ stars in two weeks</span>
 
-- [LLM Alignment as Retriever Optimization: An Information Retrieval Perspective](https://arxiv.org/abs/2502.03699)
-<br>**Bowen Jin**, Jinsung Yoon, Zhen Qin, Ziqi Wang, Wei Xiong, Yu Meng, Jiawei Han, Sercan O. Arik.
-<br>*preprint 2025*.
-<br>[[PDF](https://arxiv.org/abs/2502.03699)] [[Code]()]
-
 
 ### Tutorials
 
@@ -85,6 +80,11 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 
 
 ### 2025
+- [LLM Alignment as Retriever Optimization: An Information Retrieval Perspective](https://arxiv.org/abs/2502.03699)
+<br>**Bowen Jin**, Jinsung Yoon, Zhen Qin, Ziqi Wang, Wei Xiong, Yu Meng, Jiawei Han, Sercan O. Arik.
+<br>*ICML 2025*.
+<br>[[PDF](https://arxiv.org/abs/2502.03699)] [[Code]()]
+
 - [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983.pdf)
 <br>**Bowen Jin**, Jinsung Yoon, Jiawei Han, Sercan O. Arik.
 <br>*ICLR 2025*.
