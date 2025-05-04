@@ -16,9 +16,11 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <span style="color:red">If you're interested in my research or would like to discuss relevant topics and potential collaborations, feel free to reach out via email (bowenj4[AT]illinois.edu)! I also welcome inquiries from both master's and undergraduate students, especially those from underrepresented groups. Looking forward to connecting!</span>
 
 ### News
-- [2025.3] Gave a talk on [Search-R1](https://illinois.zoom.us/rec/share/S-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie?startTime=1741967885000) at UIUC-NLP Seminar.
-- [2025.3] Gave a guest lecture on Search-R1 at Northwestern University.
-- [2025.1] One paper on long-context LLM/RAG has been accepted by ICLR 2025!
+- [2025.5] One paper on weather forecasting with diffusion model has been accepted by IJCAI 2025!
+- [2025.5] One paper on LLM alignment has been accepted by ICML 2025!
+<!-- - [2025.3] Gave a talk on [Search-R1](https://illinois.zoom.us/rec/share/S-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie?startTime=1741967885000) at UIUC-NLP Seminar. -->
+<!-- - [2025.3] Gave a guest lecture on Search-R1 at Northwestern University. -->
+<!-- - [2025.1] One paper on long-context LLM/RAG has been accepted by ICLR 2025! -->
 <!-- - [2024.11] Gave a talk at BuzzRobot about [long-context LLM and RAG](https://www.youtube.com/watch?v=410PdHBkWO4)! -->
 <!-- - [2024.11] Received the NeurIPs 2024 Top Reviewer Award! -->
 <!-- - [2024.10] Gave a talk at Emory about [multimodal learning on graphs](talks/multimodal-learning-emory.pdf)! -->
