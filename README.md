@@ -7,7 +7,7 @@ My research is supported by [**Apple PhD Fellowship**](https://machinelearning.a
 
 - **Large Generative Models + Graphs** ([Survey](https://arxiv.org/abs/2312.02783)): representation learning ([Heterformer](https://arxiv.org/abs/2205.10282), [Edgeformers](https://openreview.net/pdf?id=2YQrqe4RNv)), pretraining ([Patton](https://arxiv.org/abs/2305.12268)), graph plug-in ([Graph-CoT](https://arxiv.org/abs/2404.07103)) and multimodal synthesis ([InstructG2I](https://arxiv.org/abs/2410.07157), [GraphGPT-o](https://arxiv.org/abs/2502.11925)).
 - **Large Generative Models + IR**: reasoning-retrieval interleaved LLM with RL ([Search-R1](https://arxiv.org/abs/2503.09516)), LLM alignment ([LarPO](https://arxiv.org/abs/2502.03699)), RAG and long-context LLM ([LongRAG](https://arxiv.org/abs/2410.05983.pdf)), semantic indexer ([LMIndexer](https://arxiv.org/pdf/2310.07815.pdf)), generative retrieval ([RIPOR](https://arxiv.org/pdf/2311.09134.pdf)) and generative recommendation ([UniMP](https://arxiv.org/abs/2403.10667)).
-- **Large Generative Models + Science** ([Survey](https://arxiv.org/pdf/2406.10833)): general science ([MAPLE](https://arxiv.org/abs/2302.03341), [ToTER](https://arxiv.org/abs/2403.04160)), geospatial science ([GeoWise](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.55)), climate science ([CoDiCast](https://arxiv.org/pdf/2409.05975)) and healthcare ([RAM-EHR](https://arxiv.org/abs/2403.00815)).
+- **Large Generative Models + Science** ([Survey](https://arxiv.org/pdf/2406.10833)): general science ([MAPLE](https://arxiv.org/abs/2302.03341), [ToTER](https://arxiv.org/abs/2403.04160)), geospatial science ([GeoWise](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.55)), climate science ([CoDiCast](https://arxiv.org/pdf/2409.05975)), chemistry ([ChemRAG](https://arxiv.org/abs/2505.07671)) and healthcare ([RAM-EHR](https://arxiv.org/abs/2403.00815)).
 
 I am actively working on [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), an efficient RL framework for Deepseek-R1 style reasoning + search engine calling (OpenAI DeepResearch) LLM training.
 
@@ -51,6 +51,11 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>**Bowen Jin**, Hansi Zeng, Zhenrui Yue, Dong Wang, Hamed Zamani, Jiawei Han.
 <br>*preprint 2025*.
 <br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)] [[Media](https://venturebeat.com/ai/beyond-rag-search-r1-integrates-search-engines-directly-into-reasoning-models/)] <span style="color:red">1000+ stars in two weeks</span>
+
+- [ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry](https://arxiv.org/abs/2505.07671)
+<br>Xianrui Zhong, **Bowen Jin**, Siru Ouyang, Yanzhen Shen, Qiao Jin, Yin Fang, Zhiyong Lu, Jiawei Han.
+<br>*preprint 2025*.
+<br>[[PDF](https://arxiv.org/abs/2505.07671)] [[Code]()]
 
 
 ### Tutorials
@@ -220,7 +225,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 - Reviewer: 
   - WSDM 2023, KDD 2023, NeurIPs 2023
   - ICLR 2024, WWW 2024, SDM 2024, ACL 2024, ICML 2024, COLM 2024, NeurIPs 2024
-  - ICLR 2025, WWW 2025, ACL 2025, ICML 2025
+  - ICLR 2025, WWW 2025, ACL 2025, ICML 2025, NeurIPs 2025
 
 - Journal Reviewer: 
   - *IEEE Transactions on Knowledge and Data Engineering (TKDE)*  
@@ -237,6 +242,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 
 
 ## Talks
+- [2025.5] [Search-R1](https://event.baai.ac.cn/activities/927) at [BAAI](https://hub.baai.ac.cn/events).
 - [2025.3] [Search-R1](https://lu.ma/j8g0wnit) at Jina.AI.
 - [2025.3] [Search-R1](https://illinois.zoom.us/rec/share/S-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie?startTime=1741967885000) at UIUC-NLP Seminar.
 - [2024.11] [long-context LLM and RAG](https://www.youtube.com/watch?v=410PdHBkWO4) at BuzzRobot.
