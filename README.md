@@ -97,7 +97,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 - [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983.pdf)
 <br>**Bowen Jin**, Jinsung Yoon, Jiawei Han, Sercan O. Arik.
 <br>*ICLR 2025*.
-<br>[[PDF](https://arxiv.org/abs/2410.05983.pdf)] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2410.05983.pdf)] [[Resource](https://huggingface.co/longRAG)]
 
 - [GRAPHGPT-O: Synergistic Multimodal Comprehension and Generation on Graphs](https://arxiv.org/abs/2502.11925)
 <br>Yi Fang\*, **Bowen Jin**\*, Jiacheng Shen\*, Sirui Ding, Qiaoyu Tan, Jiawei Han.
