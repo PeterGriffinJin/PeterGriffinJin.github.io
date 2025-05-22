@@ -53,7 +53,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>[[PDF](https://arxiv.org/abs/2505.15117)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-v03-6822375e50d435b1158a254f)]
 
 - [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
-<br>**Bowen Jin**, Hansi Zeng, Zhenrui Yue, Dong Wang, Hamed Zamani, Jiawei Han.
+<br>**Bowen Jin**, Hansi Zeng, Zhenrui Yue, Jinsung Yoon, Sercan O. Arik, Dong Wang, Hamed Zamani, Jiawei Han.
 <br>*preprint 2025*.
 <br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)] [[Media](https://venturebeat.com/ai/beyond-rag-search-r1-integrates-search-engines-directly-into-reasoning-models/)] <span style="color:red">1000+ stars in two weeks</span>
 
