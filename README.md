@@ -1,4 +1,4 @@
-I am a 4th-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign, fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Before that, I was an undergraduate student in Electrical Engineering of Tsinghua University, fortunately advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). During the past, I spent time at Google, Amazon Search, and Microsoft Research (both Redmond and Beijing).
+I am a 4th-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign, fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Before that, I was an undergraduate student in Electrical Engineering of Tsinghua University, fortunately advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). During the past, I spent time at Apple AIML, Google Research, Amazon Search, and Microsoft Research (both Redmond and Beijing).
 
 My research is supported by [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) and [**Yunni and Maxine Pao Memorial Fellowship**](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship). For further information, please see my [CV](Bowen__CV.pdf) (last update: 2025.03.25).
 
@@ -208,8 +208,10 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 - Tsinghua University, B.S. in Electrical Engineering and Statistics (2017 - 2021). 
 
 ## Professional Experience
+- Apple AIML - Research Intern
+<br> 2025.05-now
 - Google Cloud Research - Student Researcher
-<br> 2024.05-now
+<br> 2024.05-2025.05
 - Amazon Search - Applied Scientist Intern
 <br> 2023.05-2023.12
 <!-- <br> Supervised by Dr. [Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). -->
