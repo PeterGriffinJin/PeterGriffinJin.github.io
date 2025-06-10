@@ -57,10 +57,10 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>*preprint 2025*.
 <br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)] [[Media](https://venturebeat.com/ai/beyond-rag-search-r1-integrates-search-engines-directly-into-reasoning-models/)] <span style="color:red">1000+ stars in two weeks</span>
 
-- [ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry](https://arxiv.org/abs/2505.07671)
+<!-- - [ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry](https://arxiv.org/abs/2505.07671)
 <br>Xianrui Zhong, **Bowen Jin**, Siru Ouyang, Yanzhen Shen, Qiao Jin, Yin Fang, Zhiyong Lu, Jiawei Han.
 <br>*preprint 2025*.
-<br>[[PDF](https://arxiv.org/abs/2505.07671)] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2505.07671)] [[Code]()] -->
 
 
 ### Tutorials
@@ -109,7 +109,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>*CVPR 2025*.
 <br>[[PDF](https://arxiv.org/abs/2502.11925)] [[Code]()]
 
-- [CoDiCast: Conditional Diffusion Model for Global Weather Forecasting with Uncertainty Quantification](https://arxiv.org/abs/2409.05975)
+<!-- - [CoDiCast: Conditional Diffusion Model for Global Weather Forecasting with Uncertainty Quantification](https://arxiv.org/abs/2409.05975)
 <br>Jimeng Shi, **Bowen Jin**, Jiawei Han, Sundararaman Gopalakrishnan, Giri Narasimhan.
 <br>*IJCAI 2025*.
 <br>[[PDF](https://arxiv.org/abs/2409.05975)] [[Code]()]
@@ -117,7 +117,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 - [Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation](https://arxiv.org/abs/2502.11181)
 <br>SeongKu Kang, **Bowen Jin**, Wonbin Kweon, Yu Zhang, Dongha Lee, Jiawei Han, Hwanjo Yu.
 <br>*WSDM 2025*.
-<br>[[PDF](https://arxiv.org/abs/2502.11181)] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2502.11181)] [[Code]()] -->
 
 ### 2024
 - [InstructG2I: Synthesizing Images from Multimodal Attributed Graphs](https://arxiv.org/abs/2410.07157)
@@ -140,7 +140,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>*COLM 2024*.
 <br>[[PDF](https://arxiv.org/abs/2408.05457)] [[Code](https://github.com/ZhuKerui/graph-instruction-tuning)]
 
-- [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/pdf/2402.11142v1.pdf)
+<!-- - [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/pdf/2402.11142v1.pdf)
 <br>Sizhe Zhou, Yu Meng, **Bowen Jin**, Jiawei Han.
 <br>*EMNLP 2024*.
 <br>[[PDF](https://arxiv.org/pdf/2402.11142v1.pdf)] [[Code]()]
@@ -158,7 +158,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 - [Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm](https://arxiv.org/abs/2403.10667)
 <br>Tianxin Wei, **Bowen Jin**, Ruirui Li, Hansi Zeng, Zhengyang Wang, et al.
 <br>*ICLR 2024*.
-<br>[[PDF](https://arxiv.org/abs/2403.10667)] [[Code](https://github.com/weitianxin/UniMP)]
+<br>[[PDF](https://arxiv.org/abs/2403.10667)] [[Code](https://github.com/weitianxin/UniMP)] -->
 
 
 ### 2023
@@ -182,7 +182,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>*ICLR 2023 <span style="color:red">(Poster)</span>*.
 <br>[[PDF](https://openreview.net/pdf?id=2YQrqe4RNv)] [[Code](https://github.com/PeterGriffinJin/Edgeformers)]
 
-- [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/abs/2306.14003)
+<!-- - [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/abs/2306.14003)
 <br>Yu Zhang, **Bowen Jin**, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, Yu Meng, Jiawei Han.
 <br>*KDD 2023*.
 <br>[[PDF](https://arxiv.org/abs/2306.14003)] [[Code](https://github.com/yuzhimanhua/FUTEX)]
@@ -195,7 +195,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 - [The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study](https://arxiv.org/abs/2302.03341)
 <br>Yu Zhang, **Bowen Jin**, Qi Zhu, Yu Meng, Jiawei Han.
 <br>*WWW 2023*.
-<br>[[PDF](https://arxiv.org/abs/2302.03341)] [[Code](https://github.com/yuzhimanhua/MAPLE)]
+<br>[[PDF](https://arxiv.org/abs/2302.03341)] [[Code](https://github.com/yuzhimanhua/MAPLE)] -->
 
 ### Before Ph.D.
 - [Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3397271.3401072)
