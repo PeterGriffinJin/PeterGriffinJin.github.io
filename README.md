@@ -52,11 +52,6 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 <br>*preprint 2025*.
 <br>[[PDF](https://arxiv.org/abs/2505.15117)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-v03-6822375e50d435b1158a254f)]
 
-- [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
-<br>**Bowen Jin**, Hansi Zeng, Zhenrui Yue, Jinsung Yoon, Sercan O. Arik, Dong Wang, Hamed Zamani, Jiawei Han.
-<br>*preprint 2025*.
-<br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)] [[Media](https://venturebeat.com/ai/beyond-rag-search-r1-integrates-search-engines-directly-into-reasoning-models/)] [[English Record](https://illinois.zoom.us/rec/play/WKKBseRbF4S2Sp_1vWtr58KaW3ZvO47yH0H6H54POfH8CABErgqbudUKT98n-A3eMbhHLWuINua7U3Rg.kTu_CrTzeAdZxIK9?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1741967885000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fillinois.zoom.us%2Frec%2Fshare%2FS-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie%3FstartTime%3D1741967885000)] [[Chinese Record](https://event.baai.ac.cn/activities/927)] <span style="color:red">1000+ stars in two weeks</span>
-
 <!-- - [ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry](https://arxiv.org/abs/2505.07671)
 <br>Xianrui Zhong, **Bowen Jin**, Siru Ouyang, Yanzhen Shen, Qiao Jin, Yin Fang, Zhiyong Lu, Jiawei Han.
 <br>*preprint 2025*.
@@ -94,6 +89,11 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 
 
 ### 2025
+- [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
+<br>**Bowen Jin**, Hansi Zeng, Zhenrui Yue, Jinsung Yoon, Sercan O. Arik, Dong Wang, Hamed Zamani, Jiawei Han.
+<br>*COLM 2025*.
+<br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)] [[Media](https://venturebeat.com/ai/beyond-rag-search-r1-integrates-search-engines-directly-into-reasoning-models/)] [[English Record](https://illinois.zoom.us/rec/play/WKKBseRbF4S2Sp_1vWtr58KaW3ZvO47yH0H6H54POfH8CABErgqbudUKT98n-A3eMbhHLWuINua7U3Rg.kTu_CrTzeAdZxIK9?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1741967885000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fillinois.zoom.us%2Frec%2Fshare%2FS-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie%3FstartTime%3D1741967885000)] [[Chinese Record](https://event.baai.ac.cn/activities/927)] <span style="color:red">1000+ stars in two weeks</span>
+
 - [LLM Alignment as Retriever Optimization: An Information Retrieval Perspective](https://arxiv.org/abs/2502.03699)
 <br>**Bowen Jin**, Jinsung Yoon, Zhen Qin, Ziqi Wang, Wei Xiong, Yu Meng, Jiawei Han, Sercan O. Arik.
 <br>*ICML 2025*.
