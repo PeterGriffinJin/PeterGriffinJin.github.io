@@ -260,7 +260,7 @@ I am also maintaining awesome github repos on [**Large Language Models on Graphs
 ## Miscellaneous
 I started to play a traditional Chinese instrument, Sheng at the age of eight. <a href="https://www.bilibili.com/video/BV1Jv411V7Nt?from=search&seid=17941530779930110754">Here is a concert record of mine.</a> Hope you enjoy it!:)
 
-I'm a "universal" ball fan and enjoy working out. If you cannot find me in office, catch me at the gym. <a title="哈哈" href="https://emojixd.com/x7pu">😃</a>
+I'm a "universal" ball fan ⚽️🏀🎾 and enjoy working out 🏋️. If you cannot find me in office, catch me at the gym. <a title="哈哈" href="https://emojixd.com/x7pu">😃</a>
 
 
 ## Contact
