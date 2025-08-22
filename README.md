@@ -14,7 +14,7 @@ I am actively working on [**Search-R1**](https://github.com/PeterGriffinJin/Sear
 I am also maintaining awesome github repos on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) and [**Multimodal Learning on Graphs**](https://github.com/PeterGriffinJin/Awesome-Multimodal-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
 <!-- <span style="color:red">If you're interested in my research or would like to discuss relevant topics and potential collaborations, feel free to reach out via email (bowenj4[AT]illinois.edu)! I also welcome inquiries from both master's and undergraduate students, especially those from underrepresented groups. Looking forward to connecting!</span> -->
-<span style="color:red">I will be on the job market starting in Fall 2025 and am open to both academic faculty positions and industrial research roles. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at bowenj4[AT]illinois.edu</span>
+<span style="color:red">I will be on the job market starting in Fall 2025. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at bowenj4[AT]illinois.edu</span>
 
 
 ### News
