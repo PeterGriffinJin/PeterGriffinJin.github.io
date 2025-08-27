@@ -14,7 +14,7 @@ I am actively working on [**Search-R1**](https://github.com/PeterGriffinJin/Sear
 
 - **Augmentation** – Enhancing foundation models with external data sources to improve their capabilities ([RAG-FT](https://arxiv.org/abs/2410.05983), [Graph-CoT](https://arxiv.org/abs/2404.07103)).
 - **Alignment** – Developing methods to better align LLMs with human preferences and values ([LarPO](https://arxiv.org/abs/2502.03699)).
-- **Reasoning \& Agents** – Unlocking the reasoning and agentic capabilities of LLMs through reinforcement learning ([Search-R1](https://arxiv.org/abs/2503.09516), [Search-R1++](https://arxiv.org/abs/2505.15117)).
+- **Reasoning & Agents** – Unlocking the reasoning and agentic capabilities of LLMs through reinforcement learning ([Search-R1](https://arxiv.org/abs/2503.09516), [Search-R1++](https://arxiv.org/abs/2505.15117)).
 
 I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of the first open-source frameworks to enable LLMs' reasoning and agentic capability through *reinforcement learning* (<span style="color:red">3k+ Github stars</span>).
 
