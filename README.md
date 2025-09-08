@@ -1,4 +1,4 @@
-I am a 4th-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign, fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Before that, I was an undergraduate student in Electrical Engineering of Tsinghua University, fortunately advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). During the past, I spent time at Apple AIML, Google Research, Amazon Search, and Microsoft Research (both Redmond and Beijing).
+I am a final-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign, fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Before that, I was an undergraduate student in Electrical Engineering of Tsinghua University, fortunately advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). During the past, I spent time at Apple AIML, Google Research, Amazon Search, and Microsoft Research (both Redmond and Beijing).
 
 My research is supported by [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) and [**Yunni and Maxine Pao Memorial Fellowship**](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship). For further information, please see my [CV](Bowen_CV_industry.pdf) (last update: 2025.08.6).
 
@@ -216,7 +216,7 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 
 ## Professional Experience
 - Apple AIML - Research Intern
-<br> 2025.05-now
+<br> 2025.05-2025.09
 - Google Cloud Research - Student Researcher
 <br> 2024.05-2025.05
 - Amazon Search - Applied Scientist Intern
