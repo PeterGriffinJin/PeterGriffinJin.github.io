@@ -24,9 +24,9 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 <span style="color:red">I will be on the job market starting in Fall 2025. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at bowenj4[AT]illinois.edu.</span>
 
 
-### News
-- [2025.5] One paper on weather forecasting with diffusion model has been accepted by IJCAI 2025!
-- [2025.5] One paper on LLM alignment has been accepted by ICML 2025!
+<!-- ### News -->
+<!-- - [2025.5] One paper on weather forecasting with diffusion model has been accepted by IJCAI 2025! -->
+<!-- - [2025.5] One paper on LLM alignment has been accepted by ICML 2025! -->
 <!-- - [2025.3] Gave a talk on [Search-R1](https://illinois.zoom.us/rec/share/S-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie?startTime=1741967885000) at UIUC-NLP Seminar. -->
 <!-- - [2025.3] Gave a guest lecture on Search-R1 at Northwestern University. -->
 <!-- - [2025.1] One paper on long-context LLM/RAG has been accepted by ICLR 2025! -->
