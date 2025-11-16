@@ -168,7 +168,7 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 <br>[[PDF](https://arxiv.org/abs/2403.10667)] [[Code](https://github.com/weitianxin/UniMP)] -->
 
 
-### 2023
+<!-- ### 2023 -->
 <!-- - [Learning Multiplex Representations on Text-Attributed Graphs with One Language Model Encoder](https://arxiv.org/pdf/2310.06684.pdf)
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Han Zhao, Jiawei Han.
 <br>*NeurIPs 2023 (GLFrontiers)*.
