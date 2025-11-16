@@ -53,7 +53,7 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 ## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao)
 (\* denotes equal contribution)
 
-### Preprints
+<!-- ### Preprints -->
 - [An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents](https://arxiv.org/abs/2505.15117)
 <br>**Bowen Jin**, Jinsung Yoon, Priyanka Kargupta, Sercan O. Arik, Jiawei Han.
 <br>*preprint 2025*.
@@ -65,7 +65,7 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 <br>[[PDF](https://arxiv.org/abs/2505.07671)] [[Code]()] -->
 
 
-### Tutorials
+<!-- ### Tutorials
 
 - [Integrating Textual and Graph Data: Advancing Knowledge Discovery with Semantic and Structural Insights](tutorials/sdm25/proposal.pdf)
 <br>**Bowen Jin**, Yu Zhang, Yunyi Zhang, Jiawei Han.
@@ -80,10 +80,10 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 - [Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery](https://dl.acm.org/doi/10.1145/3616855.3636450)
 <br>**Bowen Jin**, Yu Zhang, Sha Li, Jiawei Han.
 <br>*WSDM 2024 (Tutorial)*.
-<br>[[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)] [[Tutorial Page](tutorials/wsdm24.md)]
+<br>[[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)] [[Tutorial Page](tutorials/wsdm24.md)] -->
 
 
-### Surveys
+<!-- ### Surveys
 - [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783)
 <br>**Bowen Jin**\*, Gang Liu\*, Chi Han\*, Meng Jiang, Heng Ji, Jiawei Han.
 <br>*Transactions on Knowledge and Data Engineering (TKDE) 2024*.
@@ -92,10 +92,10 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 - [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/pdf/2406.10833)
 <br>Yu Zhang\*, Xiusi Chen\*, **Bowen Jin**\*, Sheng Wang, Shuiwang Ji, Wei Wang, Jiawei Han.
 <br>*EMNLP 2024*.
-<br>[[PDF](https://arxiv.org/pdf/2406.10833)] [[Repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)] <span style="color:red">500+ stars</span>
+<br>[[PDF](https://arxiv.org/pdf/2406.10833)] [[Repo](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)] <span style="color:red">500+ stars</span> -->
 
 
-### 2025
+<!-- ### 2025 -->
 - [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
 <br>**Bowen Jin**, Hansi Zeng, Zhenrui Yue, Jinsung Yoon, Sercan O. Arik, Dong Wang, Hamed Zamani, Jiawei Han.
 <br>*COLM 2025*.
@@ -111,10 +111,10 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 <br>*ICLR 2025*.
 <br>[[PDF](https://arxiv.org/abs/2410.05983.pdf)] [[Resource](https://huggingface.co/longRAG)]
 
-- [GRAPHGPT-O: Synergistic Multimodal Comprehension and Generation on Graphs](https://arxiv.org/abs/2502.11925)
+<!-- - [GRAPHGPT-O: Synergistic Multimodal Comprehension and Generation on Graphs](https://arxiv.org/abs/2502.11925)
 <br>Yi Fang\*, **Bowen Jin**\*, Jiacheng Shen\*, Sirui Ding, Qiaoyu Tan, Jiawei Han.
 <br>*CVPR 2025*.
-<br>[[PDF](https://arxiv.org/abs/2502.11925)] [[Code]()]
+<br>[[PDF](https://arxiv.org/abs/2502.11925)] [[Code]()] -->
 
 <!-- - [CoDiCast: Conditional Diffusion Model for Global Weather Forecasting with Uncertainty Quantification](https://arxiv.org/abs/2409.05975)
 <br>Jimeng Shi, **Bowen Jin**, Jiawei Han, Sundararaman Gopalakrishnan, Giri Narasimhan.
@@ -126,11 +126,11 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 <br>*WSDM 2025*.
 <br>[[PDF](https://arxiv.org/abs/2502.11181)] [[Code]()] -->
 
-### 2024
+<!-- ### 2024
 - [InstructG2I: Synthesizing Images from Multimodal Attributed Graphs](https://arxiv.org/abs/2410.07157)
 <br>**Bowen Jin**, Ziqi Pang, Bingjun Guo, Yu-Xiong Wang, Jiaxuan You, Jiawei Han.
 <br>*NeurIPs 2024*.
-<br>[[PDF](https://arxiv.org/abs/2410.07157)] [[Code](https://github.com/PeterGriffinJin/InstructG2I)] [[Model](https://huggingface.co/PeterJinGo/VirtualArtist)] [[Project Page](https://instructg2i.github.io/)] [[Media Coverage](https://www.marktechpost.com/2024/10/11/instructg2i-a-graph-context-aware-stable-diffusion-model-to-synthesize-images-from-multimodal-attributed-graphs/)]
+<br>[[PDF](https://arxiv.org/abs/2410.07157)] [[Code](https://github.com/PeterGriffinJin/InstructG2I)] [[Model](https://huggingface.co/PeterJinGo/VirtualArtist)] [[Project Page](https://instructg2i.github.io/)] [[Media Coverage](https://www.marktechpost.com/2024/10/11/instructg2i-a-graph-context-aware-stable-diffusion-model-to-synthesize-images-from-multimodal-attributed-graphs/)] -->
 
 - [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](https://arxiv.org/abs/2404.07103)
 <br>**Bowen Jin**, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han.
@@ -142,10 +142,10 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 <br>*ICML 2024*.
 <br>[[PDF](https://arxiv.org/pdf/2310.07815.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)]
 
-- [Investigating Instruction Tuning Large Language Models on Graphs](https://arxiv.org/abs/2408.05457)
+<!-- - [Investigating Instruction Tuning Large Language Models on Graphs](https://arxiv.org/abs/2408.05457)
 <br>Kerui Zhu\*, Bo-Wei Huang\*, **Bowen Jin**\*, Yizhu Jiao, Ming Zhong, Kevin Chang, Shou-De Lin, Jiawei Han.
 <br>*COLM 2024*.
-<br>[[PDF](https://arxiv.org/abs/2408.05457)] [[Code](https://github.com/ZhuKerui/graph-instruction-tuning)]
+<br>[[PDF](https://arxiv.org/abs/2408.05457)] [[Code](https://github.com/ZhuKerui/graph-instruction-tuning)] -->
 
 <!-- - [Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction](https://arxiv.org/pdf/2402.11142v1.pdf)
 <br>Sizhe Zhou, Yu Meng, **Bowen Jin**, Jiawei Han.
@@ -169,15 +169,15 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 
 
 ### 2023
-- [Learning Multiplex Representations on Text-Attributed Graphs with One Language Model Encoder](https://arxiv.org/pdf/2310.06684.pdf)
+<!-- - [Learning Multiplex Representations on Text-Attributed Graphs with One Language Model Encoder](https://arxiv.org/pdf/2310.06684.pdf)
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Han Zhao, Jiawei Han.
 <br>*NeurIPs 2023 (GLFrontiers)*.
-<br>[[PDF](https://arxiv.org/pdf/2310.06684.pdf)] [[Code](https://github.com/PeterGriffinJin/METAG)]
+<br>[[PDF](https://arxiv.org/pdf/2310.06684.pdf)] [[Code](https://github.com/PeterGriffinJin/METAG)] -->
 
-- [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
+<!-- - [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
 <br>**Bowen Jin**, Yu Zhang, Qi Zhu, Jiawei Han.
 <br>*KDD 2023*.
-<br>[[PDF](https://arxiv.org/abs/2205.10282)] [[Code](https://github.com/PeterGriffinJin/Heterformer)]
+<br>[[PDF](https://arxiv.org/abs/2205.10282)] [[Code](https://github.com/PeterGriffinJin/Heterformer)] -->
 
 - [Patton: Language Model Pretraining on Text-rich Networks](https://arxiv.org/abs/2305.12268)
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
@@ -204,29 +204,27 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 <br>*WWW 2023*.
 <br>[[PDF](https://arxiv.org/abs/2302.03341)] [[Code](https://github.com/yuzhimanhua/MAPLE)] -->
 
-### Before Ph.D.
+<!-- ### Before Ph.D.
 - [Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3397271.3401072)
 <br>**Bowen Jin**, Chen Gao, Xiangnan He, Depeng Jin, Yong Li.
 <br>*SIGIR 2020*.
-<br>[[PDF](https://dl.acm.org/doi/10.1145/3397271.3401072)] [[Code](https://github.com/tsinghua-fib-lab/MBGCN)]
+<br>[[PDF](https://dl.acm.org/doi/10.1145/3397271.3401072)] [[Code](https://github.com/tsinghua-fib-lab/MBGCN)] -->
 
 ## Education
 - University of Illinois Urbana-Champaign, Ph.D. in Computer Science  (2021 - Present). 
 - Tsinghua University, B.S. in Electrical Engineering and Statistics (2017 - 2021). 
 
-## Professional Experience
+<!-- ## Professional Experience
 - Apple AIML - Research Intern
 <br> 2025.05-2025.09
 - Google Cloud Research - Student Researcher
 <br> 2024.05-2025.05
 - Amazon Search - Applied Scientist Intern
 <br> 2023.05-2023.12
-<!-- <br> Supervised by Dr. [Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). -->
 - Microsoft Research - Research Intern
 <br> 2022.05-2022.09
-<!-- <br> Supervised by Dr. [Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/). -->
 - Microsoft Research (Asia) - Research Intern
-<br> 2020.09-2021.3
+<br> 2020.09-2021.3 -->
 <!-- <br> Supervised by Dr. [Zheng Liu](https://zhengliu101.github.io/). -->
 <!-- - University of California, Los Angeles - Research Assistant -->
 <!-- <br> 2020.05-2020.09 -->
@@ -235,7 +233,7 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 <!-- <br> 2019.06-2019.09 -->
 <!-- <br> Supervised by Dr. [Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/). -->
 
-## Professional Service
+<!-- ## Professional Service
 - Reviewer: 
   - WSDM 2023, KDD 2023, NeurIPs 2023
   - ICLR 2024, WWW 2024, SDM 2024, ACL 2024, ICML 2024, COLM 2024, NeurIPs 2024
@@ -260,7 +258,7 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 - [2025.3] [Search-R1](https://lu.ma/j8g0wnit) at Jina.AI.
 - [2025.3] [Search-R1](https://illinois.zoom.us/rec/share/S-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie?startTime=1741967885000) at UIUC-NLP Seminar.
 - [2024.11] [long-context LLM and RAG](https://www.youtube.com/watch?v=410PdHBkWO4) at BuzzRobot.
-- [2024.10] [Multimodal learning on graphs](talks/multimodal-learning-emory.pdf) at Emory.
+- [2024.10] [Multimodal learning on graphs](talks/multimodal-learning-emory.pdf) at Emory. -->
 
 <!-- - KDD 2023 Grand Award -->
 
