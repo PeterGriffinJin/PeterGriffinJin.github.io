@@ -51,7 +51,7 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 <!-- - [2023.01] One paper on Learning Text-Rich Network Representations has been accepted by ICLR 2023! -->
 
 ## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao)
-(\* denotes equal contribution)
+<!-- (\* denotes equal contribution) -->
 
 <!-- ### Preprints -->
 - [An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents](https://arxiv.org/abs/2505.15117)
