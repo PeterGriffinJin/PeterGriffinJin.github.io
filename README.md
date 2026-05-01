@@ -16,12 +16,12 @@ I am actively working on [**Search-R1**](https://github.com/PeterGriffinJin/Sear
 - **Alignment** – Developing methods to better align LLMs with human preferences and values ([LarPO](https://arxiv.org/abs/2502.03699)).
 - **Reasoning & Agents** – Unlocking the reasoning and agentic capabilities of LLMs through reinforcement learning ([Search-R1](https://arxiv.org/abs/2503.09516), [Search-R1++](https://arxiv.org/abs/2505.15117)).
 
-I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of the first open-source frameworks to enable LLMs' reasoning and agentic capability through *reinforcement learning* (<span style="color:red">4k+ Github stars</span>).
+I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of the first open-source frameworks to enable LLMs' reasoning and agentic capability through *reinforcement learning* (<span style="color:red">4.5k+ Github stars</span>).
 
 Previously, I worked on foundation model + graphs / IR / science with awesome github repos on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) and [**Multimodal Learning on Graphs**](https://github.com/PeterGriffinJin/Awesome-Multimodal-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
 
 <!-- <span style="color:red">If you're interested in my research or would like to discuss relevant topics and potential collaborations, feel free to reach out via email (bowenj4[AT]illinois.edu)! I also welcome inquiries from both master's and undergraduate students, especially those from underrepresented groups. Looking forward to connecting!</span> -->
-<span style="color:red">I will be on the job market starting in Fall 2025. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at bowenj4[AT]illinois.edu.</span>
+<!-- <span style="color:red">I will be on the job market starting in Fall 2025. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at bowenj4[AT]illinois.edu.</span> -->
 
 
 <!-- ### News -->
