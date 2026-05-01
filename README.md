@@ -1,6 +1,8 @@
-I am a final-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign, fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Before that, I was an undergraduate student in Electrical Engineering of Tsinghua University, fortunately advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). During the past, I spent time at Apple AIML, Google Research, Amazon Search, and Microsoft Research (both Redmond and Beijing).
+I am a Research Scientist at OpenAI. I received my PhD in Computer Science from the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. Jiawei Han. Prior to my doctoral studies, I earned my bachelor's degree in Electrical Engineering from Tsinghua University. During the past, I spent time at Apple AIML, Google Research, Amazon Search, and Microsoft Research (both Redmond and Beijing). For further information, please see my [CV](Bowen_CV_industry.pdf) (last update: 2025.10.02).
 
-My research is supported by [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) and [**Yunni and Maxine Pao Memorial Fellowship**](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship). For further information, please see my [CV](Bowen_CV_industry.pdf) (last update: 2025.10.02).
+<!-- I am a research scientist at OpenAI. I obtained my PhD degree in Computer Science at University of Illinois Urbana-Champaign, fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Before that, I was an undergraduate student in Electrical Engineering of Tsinghua University, fortunately advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). During the past, I spent time at Apple AIML, Google Research, Amazon Search, and Microsoft Research (both Redmond and Beijing). -->
+
+<!-- My research is supported by [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) and [**Yunni and Maxine Pao Memorial Fellowship**](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship). For further information, please see my [CV](Bowen_CV_industry.pdf) (last update: 2025.10.02). -->
 
 <!-- **Research Interests**: My main research lies at the intersection of large generative models (e.g., large language models and diffusion models), multimodal data and information networks. In particular, I focus on how large models can integrate text, network, and multimodal data for solving real world problems including information retrieval and knowledge discovery. My current research interest is **LLM agent**, **reasoning** and **RL**.
 
@@ -10,15 +12,15 @@ My research is supported by [**Apple PhD Fellowship**](https://machinelearning.a
 
 I am actively working on [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), an efficient RL framework for Deepseek-R1 style reasoning + search engine calling (OpenAI DeepResearch) LLM training. -->
 
-**Research Interests**: My research centers on **LLM Post-Training**, approached from three key perspectives: **augmentation**, **alignment**, and **reasoning/agents**.
+<!-- **Research Interests**: My research centers on **LLM Post-Training**, approached from three key perspectives: **augmentation**, **alignment**, and **reasoning/agents**. -->
 
-- **Augmentation** – Enhancing foundation models with external data sources to improve their capabilities ([RAG-FT](https://arxiv.org/abs/2410.05983), [Graph-CoT](https://arxiv.org/abs/2404.07103)).
-- **Alignment** – Developing methods to better align LLMs with human preferences and values ([LarPO](https://arxiv.org/abs/2502.03699)).
-- **Reasoning & Agents** – Unlocking the reasoning and agentic capabilities of LLMs through reinforcement learning ([Search-R1](https://arxiv.org/abs/2503.09516), [Search-R1++](https://arxiv.org/abs/2505.15117)).
+<!-- - **Augmentation** – Enhancing foundation models with external data sources to improve their capabilities ([RAG-FT](https://arxiv.org/abs/2410.05983), [Graph-CoT](https://arxiv.org/abs/2404.07103)). -->
+<!-- - **Alignment** – Developing methods to better align LLMs with human preferences and values ([LarPO](https://arxiv.org/abs/2502.03699)). -->
+<!-- - **Reasoning & Agents** – Unlocking the reasoning and agentic capabilities of LLMs through reinforcement learning ([Search-R1](https://arxiv.org/abs/2503.09516), [Search-R1++](https://arxiv.org/abs/2505.15117)). -->
 
 I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of the first open-source frameworks to enable LLMs' reasoning and agentic capability through *reinforcement learning* (<span style="color:red">4.5k+ Github stars</span>).
 
-Previously, I worked on foundation model + graphs / IR / science with awesome github repos on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) and [**Multimodal Learning on Graphs**](https://github.com/PeterGriffinJin/Awesome-Multimodal-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look!
+<!-- Previously, I worked on foundation model + graphs / IR / science with awesome github repos on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) and [**Multimodal Learning on Graphs**](https://github.com/PeterGriffinJin/Awesome-Multimodal-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look! -->
 
 <!-- <span style="color:red">If you're interested in my research or would like to discuss relevant topics and potential collaborations, feel free to reach out via email (bowenj4[AT]illinois.edu)! I also welcome inquiries from both master's and undergraduate students, especially those from underrepresented groups. Looking forward to connecting!</span> -->
 <!-- <span style="color:red">I will be on the job market starting in Fall 2025. If you believe I might be a good fit for your institution or organization, I’d love to connect! — please feel free to reach out at bowenj4[AT]illinois.edu.</span> -->
@@ -211,7 +213,7 @@ Previously, I worked on foundation model + graphs / IR / science with awesome gi
 <br>[[PDF](https://dl.acm.org/doi/10.1145/3397271.3401072)] [[Code](https://github.com/tsinghua-fib-lab/MBGCN)] -->
 
 ## Education
-- University of Illinois Urbana-Champaign, Ph.D. in Computer Science  (2021 - Present). 
+- University of Illinois Urbana-Champaign, Ph.D. in Computer Science  (2021 - 2026). 
 - Tsinghua University, B.S. in Electrical Engineering and Statistics (2017 - 2021). 
 
 <!-- ## Professional Experience
@@ -269,5 +271,5 @@ I'm a "universal" ball fan ⚽️🏀🎾 and enjoy working out 🏋️. If you 
 
 
 ## Contact
-Email: bowenj4[AT]illinois.edu
+Email: bowen_jin[AT]outlook.com
 <!-- <br>Twitter: @ -->
