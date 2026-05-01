@@ -56,10 +56,10 @@ I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of t
 <!-- (\* denotes equal contribution) -->
 
 <!-- ### Preprints -->
-- [An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents](https://arxiv.org/abs/2505.15117)
+<!-- - [An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents](https://arxiv.org/abs/2505.15117)
 <br>**Bowen Jin**, Jinsung Yoon, Priyanka Kargupta, Sercan O. Arik, Jiawei Han.
 <br>*preprint 2025*.
-<br>[[PDF](https://arxiv.org/abs/2505.15117)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-v03-6822375e50d435b1158a254f)]
+<br>[[PDF](https://arxiv.org/abs/2505.15117)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-v03-6822375e50d435b1158a254f)] -->
 
 <!-- - [ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry](https://arxiv.org/abs/2505.07671)
 <br>Xianrui Zhong, **Bowen Jin**, Siru Ouyang, Yanzhen Shen, Qiao Jin, Yin Fang, Zhiyong Lu, Jiawei Han.
@@ -139,10 +139,10 @@ I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of t
 <br>*ACL 2024 (findings)*.
 <br>[[PDF](https://arxiv.org/abs/2404.07103)] [[Code](https://github.com/PeterGriffinJin/Graph-CoT)] [[Data](https://huggingface.co/datasets/PeterJinGo/GRBench)]
 
-- [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815.pdf)
+<!-- - [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815.pdf)
 <br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, Ruirui Li, et al.
 <br>*ICML 2024*.
-<br>[[PDF](https://arxiv.org/pdf/2310.07815.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)]
+<br>[[PDF](https://arxiv.org/pdf/2310.07815.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)] -->
 
 <!-- - [Investigating Instruction Tuning Large Language Models on Graphs](https://arxiv.org/abs/2408.05457)
 <br>Kerui Zhu\*, Bo-Wei Huang\*, **Bowen Jin**\*, Yizhu Jiao, Ming Zhong, Kevin Chang, Shou-De Lin, Jiawei Han.
@@ -181,15 +181,15 @@ I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of t
 <br>*KDD 2023*.
 <br>[[PDF](https://arxiv.org/abs/2205.10282)] [[Code](https://github.com/PeterGriffinJin/Heterformer)] -->
 
-- [Patton: Language Model Pretraining on Text-rich Networks](https://arxiv.org/abs/2305.12268)
+<!-- - [Patton: Language Model Pretraining on Text-rich Networks](https://arxiv.org/abs/2305.12268)
 <br>**Bowen Jin**, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
 <br>*ACL 2023 <span style="color:red">(Oral)</span>*.
-<br>[[PDF](https://arxiv.org/abs/2305.12268)] [[Code](https://github.com/PeterGriffinJin/Patton)]
+<br>[[PDF](https://arxiv.org/abs/2305.12268)] [[Code](https://github.com/PeterGriffinJin/Patton)] -->
 
-- [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
+<!-- - [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
 <br>**Bowen Jin**, Yu Zhang, Yu Meng, Jiawei Han.
 <br>*ICLR 2023 <span style="color:red">(Poster)</span>*.
-<br>[[PDF](https://openreview.net/pdf?id=2YQrqe4RNv)] [[Code](https://github.com/PeterGriffinJin/Edgeformers)]
+<br>[[PDF](https://openreview.net/pdf?id=2YQrqe4RNv)] [[Code](https://github.com/PeterGriffinJin/Edgeformers)] -->
 
 <!-- - [Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers](https://arxiv.org/abs/2306.14003)
 <br>Yu Zhang, **Bowen Jin**, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, Yu Meng, Jiawei Han.
