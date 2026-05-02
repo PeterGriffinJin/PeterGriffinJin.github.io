@@ -1,4 +1,8 @@
-I am a Research Scientist at OpenAI. I received my PhD in Computer Science from the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Prior to my doctoral studies, I earned my bachelor's degree in Electrical Engineering from Tsinghua University. During the past, I spent time at Apple AIML, Google Research, Amazon Search, and Microsoft Research (both Redmond and Beijing). For further information, please see my [CV](Bowen_CV_industry.pdf) (last update: 2025.10.02).
+I am a Research Scientist at OpenAI. 
+
+I received my PhD in Computer Science from the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Prior to my doctoral studies, I earned my bachelor's degree in Electrical Engineering from Tsinghua University. During the past, I spent time at Apple AIML, Google Research, Amazon Search, and Microsoft Research (both Redmond and Beijing). For further information, please see my [CV](Bowen_CV_industry.pdf) (last update: 2025.10.02).
+
+I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of the first open-source frameworks to enable LLMs' reasoning and agentic capability through *reinforcement learning* (<span style="color:red">4.5k+ Github stars</span>).
 
 <!-- I am a research scientist at OpenAI. I obtained my PhD degree in Computer Science at University of Illinois Urbana-Champaign, fortunately advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Before that, I was an undergraduate student in Electrical Engineering of Tsinghua University, fortunately advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). During the past, I spent time at Apple AIML, Google Research, Amazon Search, and Microsoft Research (both Redmond and Beijing). -->
 
@@ -17,8 +21,6 @@ I am actively working on [**Search-R1**](https://github.com/PeterGriffinJin/Sear
 <!-- - **Augmentation** – Enhancing foundation models with external data sources to improve their capabilities ([RAG-FT](https://arxiv.org/abs/2410.05983), [Graph-CoT](https://arxiv.org/abs/2404.07103)). -->
 <!-- - **Alignment** – Developing methods to better align LLMs with human preferences and values ([LarPO](https://arxiv.org/abs/2502.03699)). -->
 <!-- - **Reasoning & Agents** – Unlocking the reasoning and agentic capabilities of LLMs through reinforcement learning ([Search-R1](https://arxiv.org/abs/2503.09516), [Search-R1++](https://arxiv.org/abs/2505.15117)). -->
-
-I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of the first open-source frameworks to enable LLMs' reasoning and agentic capability through *reinforcement learning* (<span style="color:red">4.5k+ Github stars</span>).
 
 <!-- Previously, I worked on foundation model + graphs / IR / science with awesome github repos on [**Large Language Models on Graphs**](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) and [**Multimodal Learning on Graphs**](https://github.com/PeterGriffinJin/Awesome-Multimodal-on-Graphs) with [**a survey paper**](https://arxiv.org/abs/2312.02783). Feel free to have a look! -->
 
@@ -52,7 +54,7 @@ I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of t
 <!-- - [2023.01] One paper on Metadata-Enhanced Scientific Text Classification has been accepted by WWW 2023! -->
 <!-- - [2023.01] One paper on Learning Text-Rich Network Representations has been accepted by ICLR 2023! -->
 
-## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao)
+<!-- ## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao) -->
 <!-- (\* denotes equal contribution) -->
 
 <!-- ### Preprints -->
@@ -98,12 +100,12 @@ I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of t
 
 
 <!-- ### 2025 -->
-- [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
+<!-- - [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
 <br>**Bowen Jin**, Hansi Zeng, Zhenrui Yue, Jinsung Yoon, Sercan O. Arik, Dong Wang, Hamed Zamani, Jiawei Han.
 <br>*COLM 2025*.
-<br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)] [[Media](https://venturebeat.com/ai/beyond-rag-search-r1-integrates-search-engines-directly-into-reasoning-models/)] [[English Record](https://illinois.zoom.us/rec/play/WKKBseRbF4S2Sp_1vWtr58KaW3ZvO47yH0H6H54POfH8CABErgqbudUKT98n-A3eMbhHLWuINua7U3Rg.kTu_CrTzeAdZxIK9?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1741967885000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fillinois.zoom.us%2Frec%2Fshare%2FS-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie%3FstartTime%3D1741967885000)] [[Chinese Record](https://event.baai.ac.cn/activities/927)] <span style="color:red">4k+ Github stars</span>
+<br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)] [[Media](https://venturebeat.com/ai/beyond-rag-search-r1-integrates-search-engines-directly-into-reasoning-models/)] [[English Record](https://illinois.zoom.us/rec/play/WKKBseRbF4S2Sp_1vWtr58KaW3ZvO47yH0H6H54POfH8CABErgqbudUKT98n-A3eMbhHLWuINua7U3Rg.kTu_CrTzeAdZxIK9?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1741967885000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fillinois.zoom.us%2Frec%2Fshare%2FS-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie%3FstartTime%3D1741967885000)] [[Chinese Record](https://event.baai.ac.cn/activities/927)] <span style="color:red">4k+ Github stars</span> -->
 
-- [LLM Alignment as Retriever Optimization: An Information Retrieval Perspective](https://arxiv.org/abs/2502.03699)
+<!-- - [LLM Alignment as Retriever Optimization: An Information Retrieval Perspective](https://arxiv.org/abs/2502.03699)
 <br>**Bowen Jin**, Jinsung Yoon, Zhen Qin, Ziqi Wang, Wei Xiong, Yu Meng, Jiawei Han, Sercan O. Arik.
 <br>*ICML 2025*.
 <br>[[PDF](https://arxiv.org/abs/2502.03699)] [[Code]()]
@@ -111,7 +113,7 @@ I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of t
 - [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983.pdf)
 <br>**Bowen Jin**, Jinsung Yoon, Jiawei Han, Sercan O. Arik.
 <br>*ICLR 2025*.
-<br>[[PDF](https://arxiv.org/abs/2410.05983.pdf)] [[Resource](https://huggingface.co/longRAG)]
+<br>[[PDF](https://arxiv.org/abs/2410.05983.pdf)] [[Resource](https://huggingface.co/longRAG)] -->
 
 <!-- - [GRAPHGPT-O: Synergistic Multimodal Comprehension and Generation on Graphs](https://arxiv.org/abs/2502.11925)
 <br>Yi Fang\*, **Bowen Jin**\*, Jiacheng Shen\*, Sirui Ding, Qiaoyu Tan, Jiawei Han.
@@ -134,10 +136,10 @@ I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of t
 <br>*NeurIPs 2024*.
 <br>[[PDF](https://arxiv.org/abs/2410.07157)] [[Code](https://github.com/PeterGriffinJin/InstructG2I)] [[Model](https://huggingface.co/PeterJinGo/VirtualArtist)] [[Project Page](https://instructg2i.github.io/)] [[Media Coverage](https://www.marktechpost.com/2024/10/11/instructg2i-a-graph-context-aware-stable-diffusion-model-to-synthesize-images-from-multimodal-attributed-graphs/)] -->
 
-- [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](https://arxiv.org/abs/2404.07103)
+<!-- - [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](https://arxiv.org/abs/2404.07103)
 <br>**Bowen Jin**, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han.
 <br>*ACL 2024 (findings)*.
-<br>[[PDF](https://arxiv.org/abs/2404.07103)] [[Code](https://github.com/PeterGriffinJin/Graph-CoT)] [[Data](https://huggingface.co/datasets/PeterJinGo/GRBench)]
+<br>[[PDF](https://arxiv.org/abs/2404.07103)] [[Code](https://github.com/PeterGriffinJin/Graph-CoT)] [[Data](https://huggingface.co/datasets/PeterJinGo/GRBench)] -->
 
 <!-- - [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815.pdf)
 <br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, Ruirui Li, et al.
