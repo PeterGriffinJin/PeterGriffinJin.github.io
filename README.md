@@ -54,14 +54,14 @@ I am actively working on [**Search-R1**](https://github.com/PeterGriffinJin/Sear
 <!-- - [2023.01] One paper on Metadata-Enhanced Scientific Text Classification has been accepted by WWW 2023! -->
 <!-- - [2023.01] One paper on Learning Text-Rich Network Representations has been accepted by ICLR 2023! -->
 
-<!-- ## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao) -->
-<!-- (\* denotes equal contribution) -->
+## Selected Publications [[Full List]](https://scholar.google.com/citations?user=dMwdOPkAAAAJ&hl=en&oi=ao) -->
+<!-- (\* denotes equal contribution)
 
 <!-- ### Preprints -->
-<!-- - [An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents](https://arxiv.org/abs/2505.15117)
+- [An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents](https://arxiv.org/abs/2505.15117)
 <br>**Bowen Jin**, Jinsung Yoon, Priyanka Kargupta, Sercan O. Arik, Jiawei Han.
 <br>*preprint 2025*.
-<br>[[PDF](https://arxiv.org/abs/2505.15117)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-v03-6822375e50d435b1158a254f)] -->
+<br>[[PDF](https://arxiv.org/abs/2505.15117)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-v03-6822375e50d435b1158a254f)]
 
 <!-- - [ChemRAG: Benchmarking Retrieval-Augmented Generation for Chemistry](https://arxiv.org/abs/2505.07671)
 <br>Xianrui Zhong, **Bowen Jin**, Siru Ouyang, Yanzhen Shen, Qiao Jin, Yin Fang, Zhiyong Lu, Jiawei Han.
@@ -100,12 +100,12 @@ I am actively working on [**Search-R1**](https://github.com/PeterGriffinJin/Sear
 
 
 <!-- ### 2025 -->
-<!-- - [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
+- [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
 <br>**Bowen Jin**, Hansi Zeng, Zhenrui Yue, Jinsung Yoon, Sercan O. Arik, Dong Wang, Hamed Zamani, Jiawei Han.
 <br>*COLM 2025*.
-<br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)] [[Media](https://venturebeat.com/ai/beyond-rag-search-r1-integrates-search-engines-directly-into-reasoning-models/)] [[English Record](https://illinois.zoom.us/rec/play/WKKBseRbF4S2Sp_1vWtr58KaW3ZvO47yH0H6H54POfH8CABErgqbudUKT98n-A3eMbhHLWuINua7U3Rg.kTu_CrTzeAdZxIK9?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1741967885000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fillinois.zoom.us%2Frec%2Fshare%2FS-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie%3FstartTime%3D1741967885000)] [[Chinese Record](https://event.baai.ac.cn/activities/927)] <span style="color:red">4k+ Github stars</span> -->
+<br>[[PDF](https://arxiv.org/abs/2503.09516)] [[Code](https://github.com/PeterGriffinJin/Search-R1)] [[Resource](https://huggingface.co/collections/PeterJinGo/search-r1-67d1a021202731cb065740f5)] [[Media](https://venturebeat.com/ai/beyond-rag-search-r1-integrates-search-engines-directly-into-reasoning-models/)] [[English Record](https://illinois.zoom.us/rec/play/WKKBseRbF4S2Sp_1vWtr58KaW3ZvO47yH0H6H54POfH8CABErgqbudUKT98n-A3eMbhHLWuINua7U3Rg.kTu_CrTzeAdZxIK9?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1741967885000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fillinois.zoom.us%2Frec%2Fshare%2FS-ODcBvZAzotUIXLyo54rBMkmeHZ0OFu7tj6MDhhbzC35FhQIHNpstFcKqnOp3Hs.1Y7cjj4Aswknyfie%3FstartTime%3D1741967885000)] [[Chinese Record](https://event.baai.ac.cn/activities/927)] <span style="color:red">4k+ Github stars</span>
 
-<!-- - [LLM Alignment as Retriever Optimization: An Information Retrieval Perspective](https://arxiv.org/abs/2502.03699)
+- [LLM Alignment as Retriever Optimization: An Information Retrieval Perspective](https://arxiv.org/abs/2502.03699)
 <br>**Bowen Jin**, Jinsung Yoon, Zhen Qin, Ziqi Wang, Wei Xiong, Yu Meng, Jiawei Han, Sercan O. Arik.
 <br>*ICML 2025*.
 <br>[[PDF](https://arxiv.org/abs/2502.03699)] [[Code]()]
@@ -113,7 +113,7 @@ I am actively working on [**Search-R1**](https://github.com/PeterGriffinJin/Sear
 - [Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG](https://arxiv.org/abs/2410.05983.pdf)
 <br>**Bowen Jin**, Jinsung Yoon, Jiawei Han, Sercan O. Arik.
 <br>*ICLR 2025*.
-<br>[[PDF](https://arxiv.org/abs/2410.05983.pdf)] [[Resource](https://huggingface.co/longRAG)] -->
+<br>[[PDF](https://arxiv.org/abs/2410.05983.pdf)] [[Resource](https://huggingface.co/longRAG)]
 
 <!-- - [GRAPHGPT-O: Synergistic Multimodal Comprehension and Generation on Graphs](https://arxiv.org/abs/2502.11925)
 <br>Yi Fang\*, **Bowen Jin**\*, Jiacheng Shen\*, Sirui Ding, Qiaoyu Tan, Jiawei Han.
@@ -136,15 +136,15 @@ I am actively working on [**Search-R1**](https://github.com/PeterGriffinJin/Sear
 <br>*NeurIPs 2024*.
 <br>[[PDF](https://arxiv.org/abs/2410.07157)] [[Code](https://github.com/PeterGriffinJin/InstructG2I)] [[Model](https://huggingface.co/PeterJinGo/VirtualArtist)] [[Project Page](https://instructg2i.github.io/)] [[Media Coverage](https://www.marktechpost.com/2024/10/11/instructg2i-a-graph-context-aware-stable-diffusion-model-to-synthesize-images-from-multimodal-attributed-graphs/)] -->
 
-<!-- - [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](https://arxiv.org/abs/2404.07103)
+- [Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](https://arxiv.org/abs/2404.07103)
 <br>**Bowen Jin**, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han.
 <br>*ACL 2024 (findings)*.
-<br>[[PDF](https://arxiv.org/abs/2404.07103)] [[Code](https://github.com/PeterGriffinJin/Graph-CoT)] [[Data](https://huggingface.co/datasets/PeterJinGo/GRBench)] -->
+<br>[[PDF](https://arxiv.org/abs/2404.07103)] [[Code](https://github.com/PeterGriffinJin/Graph-CoT)] [[Data](https://huggingface.co/datasets/PeterJinGo/GRBench)]
 
-<!-- - [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815.pdf)
+- [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815.pdf)
 <br>**Bowen Jin**, Hansi Zeng, Guoyin Wang, Xiusi Chen, Tianxin Wei, Ruirui Li, et al.
 <br>*ICML 2024*.
-<br>[[PDF](https://arxiv.org/pdf/2310.07815.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)] -->
+<br>[[PDF](https://arxiv.org/pdf/2310.07815.pdf)] [[Code](https://github.com/PeterGriffinJin/LMIndexer)]
 
 <!-- - [Investigating Instruction Tuning Large Language Models on Graphs](https://arxiv.org/abs/2408.05457)
 <br>Kerui Zhu\*, Bo-Wei Huang\*, **Bowen Jin**\*, Yizhu Jiao, Ming Zhong, Kevin Chang, Shou-De Lin, Jiawei Han.
