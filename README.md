@@ -3,7 +3,7 @@ I am a Research Scientist at OpenAI.
 I received my PhD in Computer Science from the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). Prior to my doctoral studies, I earned my bachelor's degree in Electrical Engineering from Tsinghua University. During the past, I spent time at Apple AIML, Google Research, Amazon Search, and Microsoft Research (both Redmond and Beijing). 
 <!-- For further information, please see my [CV](Bowen_CV_industry.pdf) (last update: 2025.10.02). -->
 
-During my PhD, my research is supported by [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) and [**Yunni and Maxine Pao Memorial Fellowship**](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship). For further information, please see my [CV](Bowen_CV_industry.pdf) (last update: 2025.10.02).
+I received the KDD Dissertation Award in 2026. During my PhD, my research is supported by [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) and [**Yunni and Maxine Pao Memorial Fellowship**](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship). For further information, please see my [CV](Bowen_CV_industry.pdf) (last update: 2025.10.02).
 
 **Research Interests**: My research focuses on **LLM post-training**, including reinforcement learning, reasoning, agentic behavior, and model creativity.
 
