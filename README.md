@@ -5,7 +5,7 @@ I received my PhD in Computer Science from the University of Illinois Urbana-Cha
 
 I received the [**KDD Dissertation Award**](https://siebelschool.illinois.edu/news/Bowen-Jin-SIGKDD-Doctoral-Dissertation-Award) in 2026. During my PhD, my research is supported by [**Apple PhD Fellowship**](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) and [**Yunni and Maxine Pao Memorial Fellowship**](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship). For further information, please see my [CV](Bowen_CV_industry.pdf) (last update: 2025.10.02).
 
-**Research Interests**: My research focuses on **LLM post-training**, including reinforcement learning, reasoning, agentic behavior, and model creativity.
+<!-- **Research Interests**: My research focuses on **LLM post-training**, including reinforcement learning, reasoning, agentic behavior, and model creativity. -->
 
 I invent [**Search-R1**](https://github.com/PeterGriffinJin/Search-R1), one of the first open-source frameworks to enable LLMs' reasoning and agentic capability through *reinforcement learning* (<span style="color:red">5k+ Github stars</span>).
 
